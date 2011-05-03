@@ -1,0 +1,89 @@
+Collective Rights Management of Copyright in Canada 
+  [Margaret Ann Wilkinson (UWO)]
+  [Joan Dalton (Windsor)]
+  [Victoria Owen (U of T Scarborough)]
+
+abstract: Explore the system of collective rights management in Canada and it's impact on library services & activities across sectors.
+
+date: February 4, 2011 - 2:10PM
+____________________________________________________
+
+Why is this question of collectives pressing to librarians right now?
+
+-- continued from previous presentation - School Libraries were the the first to deal with the collective - Access Copyright
+-- public libraries and academic libraries are now having access copyright thrown on to them now
+
+-- the tariff process is completely and fundamentally different from the process of negotiating licenses - even negotiating licenses with a collective
+-- we are (libraries) are now permanently in litigation with Access Copyright and other collectives - they are our permanent litigation opponents
+
+-- it was easier for the school libraries to get involved at first because all are represented by the ministry of education - whereas each university is responsible for themselves
+-- basically access copyright is going after classes of users - start with the deep and easy pockets first, school libraries, the academic, then public, then health, and so on.
+
+Collectives have long existed in the music industry
+
+-- 1926 Canadian Performing Rights Society
+-- 1935 Copyright Appeal Board created for the above rights
+-- 1940 BMI Canada
+-- 1946 Composers, Authors & Publishers Association of Canada (CAPAC)
+-- 
+
+-- 1988 Copyright Act changed to allow copyright holders aggregate into collectives
+-- Library consortia are specifically not allowed under the act
+  -- don't have an exception under the copyright
+  -- "created a cartel of buyers"
+  -- basically anticompetitive
+
+-- Access Copyright is growing under the copyright act - consortia are not growing
+-- Consortia purchases of products - for example Emerald and reproduction rights are outlined in the license, then Access Copyright has nothing to sell you.
+-- **Copyright Board is only involved if there is a collective**
+-- Caveat - copyright collectives are now offering automatic registration
+-- Access Copyright only holds specific rights - copyright holder generally only assigns a few right to Access Copyright.
+  -- There are times when you have to deal with Access Copyright, original publisher, and holder for a variety of rights
+
+-- Librarians have had experience with Cancopy (now Access Copyright) and other collectives since 1988 - but have not experienced the Copyright Board until recently
+-- Why do many libraries find themselves involved with the Copyright Board now?
+  -- s. 70.12 of the Copyright Act (Part VII)
+
+-- Copyright Board of Canada is a quasi-judicial body
+  -- Chairman: Mr. Justice William Vancise - Supernumerary Judge of the Saskatchewan Court of Appeal
+  -- Vice Chairman and Chief Executive Officer: Mr. Claude Majeau - civil servant
+  -- Mrs. Jacinthe Théberge - Quebec lawyer - communication technologies
+  -- Nelson Landry - IP Litigator
+  -- One vacancy
+  -- **the board functions in french**
+
+-- All the collectives really form around 3 rights
+  -- Produce or Reproduce the work
+  -- Perform the work in public
+  -- Publish the work
+
+-- Access Copyright's repertoire for digital rights - is it growing? (very large for print reproductions)
+  -- Representing on a exclusion basis - "unless you tell us no, we are representing you."
+
+-- Why are we having this conversation? 
+  -- Risk management
+  -- to avoid lawsuits
+  -- BIG SCARY ENFORCEMENT OFFICERS - actual undercover representatives - ex. someone enrolled at McMaster with access to our systems, and knows the environment secretly reporting
+
+-- Sample formula shown from previous presentation regarding the tariff
+
+-- The interim agreement
+  -- December 23, 2010
+  -- ruling states that it is not mandated - institutions can elect to agree to work under the tariff
+  -- extension of same payment obligations under the license
+  -- extension of authorization for repographic activities under the license
+  -- Inclusion of 'array of activities' introduced in the Proposed Tariff around digital content, without additional payment on an interim basis - digital content - tariff gives institutions the option to license digital copies if it so wishes
+  -- extension of same reporting obligations that existed in the license
+  -- extension of indemnity, as it existed in the license
+
+-- Proposed tariff
+  -- Fair Dealing statement
+    -- digital works;
+    -- activities around digital works;
+    -- conditions required for digital work;
+  -- Indemnity
+    -- anti-circumvention clause
+    -- increased record-keeping & reporting
+    -- access to secure networks by Access Copyright for surveys
+    -- Fee increase: $45/FTE
+

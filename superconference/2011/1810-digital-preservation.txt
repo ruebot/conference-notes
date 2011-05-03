@@ -1,0 +1,69 @@
+Digital Preservation Best Practices - Lessons learned from accross the pond
+  [Slavko Manojlovich (MUN)]
+  [Michael J. Bennett (University of Connecticut)}
+  {slides link: digitalcommons.uconn.edu/libr_pres/29}
+___________________________________________________________________________
+
+-- What is Digital Preservation?
+  -- pretty much the same as our defintion
+  -- disaster recovery strategies and backup systems are not sufficient to ensure suvival and access to authentic digital resources over time.
+  -- digitizaed analogue content
+  -- born digital content
+    -- text
+    -- audio
+    -- video
+    -- email
+    -- web sites
+    -- research data
+    -- databases
+    -- container files
+    -- spreadsheets
+    -- software
+    -- ....
+ -- *DIGITAL PRESERVATION HAS NOTHING TO DO WITH DIGITIZATION*
+
+-- Best Practices
+  -- best practices may not always be the best option for your organization :D
+    -- UK National Gallery - selected proprietary raw camera output format for long-term preservation because it supports an advanced level of colour management
+  -- best practices sources
+    -- subject reporitories - european collaboration in the international context
+    -- digital preservation - the planets way
+    -- digital futures longdon 2010 -from digitization to delivery
+    -- 8th european conference on digital archving
+    -- my leicestershire - JISC community engagement digitization project
+    -- learning how to play nicely - repositories and CRIS
+    -- archiving 2010
+    -- thrive or survive 0 making the most of your digital content
+    -- digital preservation management - implementing short term solutions for long term problems
+    -- Open Repositories annual conference
+    -- talis open day - linked data and libraries
+    -- iPRES2010 - international conference on preservation of digital objects
+    -- international journal of digital curation (ijdc.net)
+    -- Kings College London - MA in Digital Asset Management
+    -- U of T Digital Curation Institute
+    -- Digital Preservation in the Canadian Landscape - CARL 2010
+
+-- OAIS
+  -- developed by the consultative committee for space data systems
+  -- ISO standard in 2003 - ISO 14721:2003
+  -- "Those who will implement OAIS archives or administer them on a daily basis should read the entire document"
+  -- "The use of this reference model as the basis of any archive implementation is recommended as it allows preactitioners to use common language and potentially comon tools to address common problems."
+
+-- Preservation planning
+  -- monitor designated community
+  -- monitor techinolgoy
+  -- develop preservation strategies and standards
+  -- develop packaging designs and migration plans
+  -- moving jpeg2000 - video preservation format
+  -- PLATO: Plantets Preservation Planning Tool
+    -- developed by the PLANTES Consortium
+    -- document your decisions
+    -- digital time capsule
+    -- create a media preservation plan
+    
+-- Archivematica - version 0.6
+    -- open source software toolkit that takes teh OAIS model and turns it various conceptual entities into actionable functionalities
+    -- can take SIPs and turn them into AIPs (and DIPs)
+    -- does it via unix pipeline design - think ubuntu's thunar file manager in combination with Bash and Python scripts
+    
+

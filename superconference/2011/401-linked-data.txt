@@ -1,0 +1,8 @@
+Linked Data - The Web on Sterioids [Walter Lewis]
+
+* exposing, sharing, and connecting pieces of data, information, and knowledge on the semantic web using URIs and RDF
+* wikipedia/dbpedia have best definition(s) :D
+
+* linking is for machines - not humans
+
+LOOK FOR WALTER'S SLIDES 

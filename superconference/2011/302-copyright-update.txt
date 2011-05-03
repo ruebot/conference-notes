@@ -1,0 +1,85 @@
+Copyright Update
+  [Margaret Ann Wilkinson (UWO)]
+
+abstract: A review of current copyright issues and events including but not limited to: proposed changes to the Copyright Act and stakeholder responses, collectives and licensing for schools & universities, and recent or upcoming judicial activities. Margaret Ann Wilkinson, OLA's copyright expert, will report on key issues and activities that impact services and librarian activities in all sectors.
+
+date: February 3, 2011 - 9:05AM
+_________________________________  
+
+Crookes v. Newton (file no. 33412)
+	* libel case
+	* one right of copyright is right of publishing
+	* no where is there clear legal definition of publishing
+	* case about linking
+	* if a website links to another website, does that constitute publishing the other site
+	* what we want to see is some clarification in what it means to publish
+	* THIS IS FUCKING BIZARRE!?
+
+Shaw Cablesystems vs. SOCAN (file no. 33922)
+	* Tariff 22A
+        * point to point fax transmissions - fair dealing
+	  * many point to point fax transmission to the same point - is that fair dealing?
+          * case is set in a "Fax" environment
+	* Started in copyright board, moved around and ended up at supreme court
+	* electronic copyright
+	* copyright board asked to set a tariff
+	* are ISPs liable for copyright?
+	* federal court of appeal - right of the rights holder to control telecommunication to the public
+	* waiting to find out if supreme court will hear the case - federal court of appeal's decision was nearly a question to the supreme court
+	* intention of the person doing to communicating
+	* theoretically possible to communicate one to many without violating fair dealing - not intending to communicate to the public
+	* intention of a private communication is interpreted as fair dealing
+	* library - CYA - make it clear that the transmission is intended to private
+	* INTENTION OF THE COMMUNICATOR - DOCUMENT SAID INTENTION!
+
+K-12 and Access Copyright
+	* Tariff agreement 2005-2009 (contract)
+	* Ministry of Education made an appeal (file no. A-302-09) to Federal Court on Copyright Board Access Copyright tariff
+	* Federal Court of Appeal decision appealed to supreme court of canada
+	* what is federal court of appeal decision?
+	  * provided a formula (approved formula that the copyright board used)
+	  * all copying done in an institution, subtract all copies for which the rights holder should not be compensated, subtract those materials in which by law the users have rights (fair dealing, LAMs) = number of compensible copies, multiplied by the economical value determined by copyright board.
+	  * "subtract all copies for which the rights holder should not be compensated" <-- is what is in question by Federal Court of Appeals (interpreted as the Copyright Board making a decision on law, which it is not allowed to do, hence the judicial review
+	  * board is charged with finding the value indicators for information
+
+Bill C-32 - An Act to Amend the Copyright Act
+	* right now it is in committee
+	* CLA and OLA are making representations to government
+	* might pass with out any amendments - VERY UNLIKELY
+	* might pass with amendments - what is amended?
+	* government may fall and disappears just like Bill C-60
+	* may be defeated in its entirety - VERY UNLIKELY
+	* if it extents user's rights too far, canada is in trouble with international trade partners
+	* if they narrow user's rights too much, our courts use the most robust user's rights language in the world
+	
+	library world problems
+	  * photographer has ownership of copyright (commissioners of photographs will be granted rights) 
+	  * posting to internet is right of the rights owner
+	  * disturbing lessons would be violation
+	  * moral rights - only applied to works - does not cover sound recordings and performances - bill will move that right to them
+	  * digital locks
+	    * adding to their copyright arsenal
+	    * worrisome
+	    * can override users rights
+	    * libraries cannot be assessed damages for breaking locks
+	 * does not do anything about the exception of LAMs [one of the copyright exceptions]
+	 * expand fair dealing by extending parody and satire
+	 * education is apart of fair dealing - if it survives and NAFTA partner can file complaint
+	   * no definition of what education is
+	   * no limitation
+	   * is self-education education???
+
+Copyright Board & Libraries
+	* Board is thinking of institutions in which libraries are house
+	* We won't be the only evidence
+	* Totally governed by board for tariff decisions
+	* Should we be pushing the bounds of the Law Society of Upper Canada decision? [libraries defined]
+	* School Boards now have an actual tariff 2005-2009 [fighting 2005-2009 tariff and 2010-2012 at the same time]
+	* Universities and colleges facing the same thing ---^ now
+	* All these tariff decisions are still pending
+	* Reorganize institution so that you are not doing anything that Access Copyright covers
+	* Access Copyright knowing an institution can do the above is acquiring none traditional rights to sell
+	* 98% of copies made are generally none compensible
+	* 2010-2012 Access Copyright is asking for ~$15/student (2005-2009 it was ~$5/student) // K-12
+	* Bill C-32 enlarges fair dealing thereby enlarging the non-compensatable material
+	* Bill C-32 is completely silent on collectives

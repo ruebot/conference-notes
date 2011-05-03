@@ -1,0 +1,58 @@
+Title: Reporting on the future of academic libraries: a discourse analysis
+
+Presenter: Nicole Carter [U of T]
+
+Abstract: "The academic library has died."
+
+This is the first statement of Brian T. Sullivan's article, "Academic Library Autopsy Report, 2050", published in The Chronicle of Higher Education (Jan 2, 2011).
+
+The New York Review of Books published an article by Richard Darnton, Director of the Harvard University Library, entitled, "The Library: Three Jeremiads" (Dec 23, 2010). (A jeremiad is a 'bitter lament' presented in written form.)
+
+Both writers have openly communicated their concern for the future of academic libraries based on their past and present experiences. However, by analyzing these texts, we can uncover other intents and attitudes. Using a theory of language (Systemic Functional Linguistics) and an approach (Critical Discourse Analysis), I apply a methodology that combines the two as described by Young and Fitzgerald (2006) in The Power of Language: How Discourse Influences Society.
+
+For each of the two texts, one written by Sullivan, the other by Darnton, I consider the following questions, as suggested by Young and Fitzgerald (2006):
+
+Who is this discourse aimed at? What is the intention or purpose of the discourse? What are the writer's attitudes and stances? What holds the discourse together (in terms of Chains and Themes)?
+
+The result of such an analysis is that we are better able to decide whether or not we want to subscribe to the writers' messages and, if not, whether or not we should try to counterbalance their messages with our own.
+
+The discourse on the future of academic libraries has the power to influence our society (the library community along with our stakeholders). We should be in on that conversation.!
+
+The speaker(s) will be introduced by the session convenor Michelle Baratta .
+
+url: http://link.library.utoronto.ca/registration/staffconference/2011/display_course.cfm?CSID=134
+-----------------
+
+Introductory understanding of Systemic Functional Linguistics, Critical discourse analysist and how the two can be used together as an effective methodology
+
+why?
+	intersection of linguistics and library studies
+	future of academic libraries
+
+tour of discourse
+	
+what can we learn from the language used by library stakeholders writing about the future of libraries?
+the procedure
+	basic text analysis
+		asking analytical questions; uses your intuition to get ideas started
+	systemic-functional linguistics
+		allows you to analyze the text objectively
+	critical discourse analysis
+		asks questions that directly address power relations
+
+	who is the discourse aimed at?
+	who is involved in the discourse?
+	what is the intention...?
+
+Ideational metafunction
+Interpersonal metafunction
+Textual metafunction
+
+The Library: Three Jeremiads
+	Harvard - successes and challenges
+	Jeremiand 1: Vicious cycle - increased cost for periodicals, monograph budget cuts, reduced demand/publication
+	Jeremaind 2: Vicious cycle - academics provide articles and services, libraries buy back the results
+	Jeremaind 3: Google book digitization, settlement
+	Conclusion: "A new ecology, once based on the public good instead of private gain."
+
+
