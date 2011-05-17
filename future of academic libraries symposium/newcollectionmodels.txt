@@ -1,0 +1,51 @@
+Title: Thinking differently about collections: new collection models
+
+Pressenter: David Lewis [IUPUI]
+
+Abstract: The felling of information from physical container, developments in digital technology have brought will create distributive change in the means of scholarly communication and library practice. It will be argued that libraries will be disrupted, but they also have the opportunity to disrupts and in doing so continue to find a role to play.
+
+---------
+
+misconceptions:	
+	* book is dead
+	* we have entered the information age - every age has an information age!
+	* all information is available online
+
+chill, don't panic!
+
+The nature of scholarship based on the print model is not yet over, but we can see it on the horizon.
+
+retrospective collections:
+	* arl libraries will archive print copies in long-term storage facilities - collaboratively or not
+	* google, hathitrust, and others will provide digital archive for most titles
+	* the print heritage will be digital - lawyers will figure out the rights issue
+
+current materials:
+	* all content is created in digitial formats
+	* digital distribution is the norm
+	* print-on-demand is easy and cheap
+	* digital readers provide a good reading experience for most readers
+
+argument:
+	* collection are at the core to what libraries do
+	* will make change difficult because stablished values and practices will need to change - inside the library and on campus
+	* books will remain, but delivery mechanisms will be radically transformed
+	* library will increasingly collect, manage, adn preserve unique locally produced items and support new forms of scholarly communication
+	* new media formats and conventions will multiply
+
+local print collections become an inefficient means of providing access to most published books (print or digital)
+
+user-driven purchase give away library
+	* only buy a book when a user wants it
+	* deliver the book form as digital or POD
+	* library subsidizes cost
+	* give the user the book to keep (POD)
+	* cost is about the same per item as current "buy it just in case, store the book forever model"
+
+* most space now used for local collections will be repurposed
+* most staff resources used to select, acquire, and catalog local collections
+* unique materials (print or digital) that library hold will be important
+* resources now used to purchase materials will be repurposed to support curation of unique items
+* repurposing dollars will be really really hard!!!
+* the university press model is broken, and on their own, the univ presses cannot solve the problem 
+* we need to get out of the addiction of the for-profit science & technology journals 

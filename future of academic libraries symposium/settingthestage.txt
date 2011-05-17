@@ -1,0 +1,77 @@
+Title: Setting the Stage (A conversation about key developments affecting research libraries)
+
+Moderater: Charles Henry [President, CLIR]
+
+Presenters: Kate Wittenberg [Project Manager, Ithaka S+R], Joan Lippincott [Associate Executive Director, CNI]
+
+----------------------
+
+CLIR aspires to transform the information the information landscape... (new mission statement)
+
+What is Ithaka S+R?
+	The strategic consulting and research service that focues on the transformation of scholarship and teaching in an online environment...
+
+	Areas of research and consulting:
+		* Attitudes and Practices of Faculty and Students
+		* Role of the library
+		* Scholary publishing
+		* Sustainability
+		* Teaching and learning technology
+
+	Framing Questions:
+		* What reoles do libraryusers prioritize for the library?
+		* ...
+
+	Survey is done every three years (faculty)
+		* no international institutions or community colleges
+		* arts & sciences fields, education, law, etc.
+	---
+		* Buyer role is now unparrelled in importance
+		* Significantly more humanist value role now
+		* Research and teaching support roles do not challenge the library's role as a buyer
+		* Teaching support less valued in science areas
+		* Faculty continue to grow more and more relient on network level discovery
+		* Faculty 0% for undergrad information literacy teacher (huge gap between library directors ~%80)
+		* Libraries highest priority strategic roles are generally relatively ow on faculty members' list of priorities for the library.
+		* Spending priorities descending order [online journals, tools for discovery, staff research,...]
+		* Spending priorities seem to prioritize the acquisition of new content (top priority for faculty, low for libraries' strategic priorities)
+		* Spending priorities emphasize discovery (not an empahasize for faculty or libraries)
+
+studies are available at ithaka.org
+
+---------
+
+CNI - what do we know about students?
+	* information skills
+	* technology skills
+	* mobile technology
+	* attitudes and perceptions toward libraries
+	* implications?
+
+Students' seeking information
+	* nearly all use scholarly databases in course-related research
+	* almost all rely on the same few information resources regardless of context
+	* google was "go-to" resource for nearly all students
+	* students turn to course reading first and consult instructors first when seeking information
+
+	* 83% of college students begin their information searches with search engines
+	* None began with the library website; top reason is that other websites have better information
+
+	* 80% of students rates themselves as "Very skilled" or "expert" in efficiently and effectively search the web
+	* Fewer than half rates themselves as highly in understanding ethical/legal issues related to digital info
+	* brands play an integral role in info-seeking activities
+	* websites from .edu and .gov were trusted by students more than commercial sites
+	* owership of internet capable handheld devices is increasing rapidly
+	* daily use of LMS is increasing
+	* the age gap in use of social media networking is decreasing
+
+	* 45% of students say that only some or almost none of their instructors provide adequate training for the IT used in the course
+	* 47% of students agreed or strongly agreed that by the time they graduate, the IT they have used in courses will have adequately prepared them for the workplace; an additional 38% were neutral
+	* "Students find rsearch and writing assignments to be a serious source or stress" - NO SHIT!?
+
+	* develop spaces that inspire
+
+The future?
+	* library of future will encourage deep connections among library staff, faculty, studetns, etc
+	* will develop creative technology solution
+	* develop spaces that insprire
