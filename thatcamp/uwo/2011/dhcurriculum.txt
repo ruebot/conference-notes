@@ -1,0 +1,33 @@
+DH Curriculum - WHO WHAT WHERE WHEN WHY!?
+
+Skills based?
+
+Teaching people how to program
+	* problems
+	* take approciate of teaching how to write essays
+		* try, re-write, refine, publish
+	* digital literacy
+	* cultivating interdisciplinary relationships
+
+Should humanists have to learn how to program?
+	* leap forward to fast, may miss imporant things
+	* those that don't program can fill in gaps [old way of humanities joke]
+
+How and when do you add/require tech/programming skills in humanities programs?
+	* options
+		* grad certificate
+		* undergrad requirements
+	* what are the skills and how to define them - tech moves very fast. institution moves like a glacier
+
+possible intro BA DH courses
+* history of technology
+* introduction digital humanities
+* digitization
+* human/social applications of technology
+* research methods [info literacy/digital literacy]
+* intro to scripting languages
+* new media workshop
+* multimedia design/visual information
+* visual semiotics
+* cultural issues in humanities and computing
+

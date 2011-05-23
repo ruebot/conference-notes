@@ -1,0 +1,18 @@
+Title: Open Publication Distribution System (OPDS)
+
+Presenter: Gord Nickerson
+
+Url: http://2011.thatcampuwo.org/boot-camps/open-publication-distribution-systems-opds/
+
+----------
+
+* The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic publications based on Atom and HTTP
+* OPDS Catalogs enable the aggregation distribution, discovery, and acquisition of electronic publications
+
+* what we're doing to do?
+	* download, install and setup an OPDS catalog
+	* import eBooks into the server and adjust the metadata for the catalog
+	* import rss feeds and convert articles into ePub ebooks
+	* setup Android and IOS devices to connect to the catalogue	
+	* transfer ebooks from the OPDS catalog to their devices
+	* import eBooks into the server and adjust the metadat for the catalog
