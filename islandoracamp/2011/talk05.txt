@@ -1,0 +1,52 @@
+Title: Git'iquette: Learn how we use and organize our online repositories using GitHub
+Speaker: Jonathan Green
+-----
+
+Users and Developers mailing list
+Wikis:
+	* Duraspace wiki
+	* Github wiki (coding standards, and developer documentation)
+Weekly committers call:
+	* Every Thursday
+	* 3 PM Atlantic
+	* Skype call
+New Tickets
+	* Unassigned
+	* Unresolved
+	* ^--- because they are using Duraspace's JIRA instance, they need to be started off like this
+Github
+	* All the Islandora source code
+	* Bleeding edge code
+	* Wikis and some documentation
+Coding standards
+	* Drupal style (Doxygen) Comments
+	* Drupal coding guidelines
+		* coder module
+Project branches
+	* The main branches for each project track the version of Drupal the branch corresponds to
+		* 6.x, 7.x 
+		* Release branch
+		* 6.x-release, 7.x-release
+Issue/Topic Branches
+	* All JIRA issues should be working on in a separate git branches
+	* The branch name should be the same as the JIRA issue number, including, all-caps.
+Commit messages
+	* First line: JIRA issue ID in all caps, followed by a brief description
+	* Second line: blank
+	* Following lines: more detailed description, line wrapped at 72-characters. May contain multiple paragraphs.
+Merging
+	* When ready to have a branch merged into master, the JIRA ticket should be resolved with a status of 'Ready to test'
+	* A link shoudl be added to the JIRA ticket that references the github commit that resolved the issue
+Add New feature
+	* git checkout master
+	* git checkout -b JIRA-TICKET-NUMBER
+	* work on your feature, add files and commit as needed. Using proper commit messages.
+	* git pull [remote] master
+	* git merge master
+	* git push {remote} JIRA-TICKET-NUMBER
+	* update ticket, so feature gets merged
+Git dont's!
+	* Never use --force unless you are SURE you know what you are doing
+	* Always work on a branch instead of your local copy of master. This makes the GIT history more sensible.
+	* Never rebase code that is publicly available
+

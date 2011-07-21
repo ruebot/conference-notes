@@ -1,0 +1,71 @@
+Title: Welcome to my Island(ora): Introduction to the software, its architecture, and its purpose
+Speaker: Alan Stanley
+-----
+
+Walk down the Stack
+	* FedoraCommons (repository for digital assets)
+		* Objects have datastreams
+			* PID (persistent identifier)
+			* DC (Dublin Core)
+			* Asses (digital object)
+			* XML (relationships, RDF)
+			* XML (metadata)
+			* XML (policies)
+		* RDF = powerful relationship modeling
+		* Semantic supoort for workflows
+		* Focus on flexible content/object metadata
+		* Any digital assest & any metadata schema
+		* individual objects in dynamic collections
+		* preservation
+			* data stream versioning
+			* checksum
+			* audit trail
+	* Drupal
+		* Fedora is a resource - it must be accessed with something else
+		* Modules make it flexible
+			* highly customizable look and feel
+			* commenting/forms
+			* custom content templates and granular permissions
+			* develop and maintain organic groups
+			* discover, view, and manage Fedora objects
+	* Islandora
+		* 100% of data is stored in Fedora
+		* Content Models = specialized objects
+			* DC
+			* RELS-EXT
+			* DS-Composite-Model
+			* What goes in a collection (ex. allowed mime types)
+			* What happens on ingest (ex. a certain mime type is ingested, x happens)
+				* System will generate your dissemation files
+				* Ingest a tiff, generate lossy jpeg, lossy jp2, and lossless jp2
+				* Can be a shown a form, and manditory metadata must be entered
+			* What happens when an object is edited?
+			* How is an object displayed
+		* Collection objects
+			* RELS-EXT
+			* DC
+			* Collection Policy
+				* list of all the content models that a member of said collection may be a member of
+				* relation of content models --^
+		* Collection Policy datastream
+			* define collection contents
+			* Collection policy data streams points to relevant collection models
+	* Solr
+		* Islandora module for Data Discovery and Facetting	
+		* Separates discovery and storage layer
+		* FAST
+		
+	* Other technologies
+		* Kakadu
+		* Imagemagick
+		* Abbyy
+		* Tesseract
+		* OpenLayers
+		* Adore-djatoka
+
+
+	* Solution Packs
+		* Highly customizable generalized solutions for common needs
+		* Organic and flexible
+		* Designed for end users
+		* Books, Newspapers, Video Collections, Audio Collections, Scholarly citations

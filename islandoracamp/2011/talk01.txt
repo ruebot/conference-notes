@@ -1,0 +1,53 @@
+Title: No man is an Island(ora)
+Speaker: Mark Leggot
+-----
+
+Islandora changes:
+	* move to github, jira, regular releases, code clean-up
+	* API module
+		* version 6 stable and in production
+		* version 7 done and in test
+	* MicroSwervices (previously Rule Engine)
+		* Change to new Python based module
+		* [this is the workflow engine]
+	* Doing work with viewers (images, books, etc)
+		* Open layers
+		* Flex Paper
+		* JW Player
+		* Internet Archive
+	* Ingest
+		* UI Bulk ingest (ZIP of TIFFs to Book)
+	* Other
+		* Theme work, R integration, collection manager
+		* claims to have the best Drupal themer in the world
+			* R integration (stores alogrithms, and data)
+	* Form Builder NG
+		* This is a new module linked to the Content Modeler
+	* New Solution pack architecture
+	* OCR
+		* Tesseract integration done, OCRopus coming
+		* Future functionality may include cloud based OCR service
+
+Islandora Future
+	* Creation of a Non-Profit
+	* Ongoing improvements, iPad App
+	* More complete documentation/Book
+	* DuraCloud integration (Standard)
+	* Move to Drupal 7 for all components/modules
+
+DGI Upcomming
+	* ContentDM _ migration tools (DLXS, DSpace, etc)
+	* DiscoveryGarden App Store - "Repository Greenhouse"
+	* DuraCloud (Private), iTunesU, Elastic Beanstalk services
+		(iTunesU would be syncing of entire collections or query based)
+	* Merritt inegration in discussion
+	* Lib2O Applicance (Islandora + Evergree/Koha, reSearcher, PKP, +)
+
+IR ver 2
+	* OpenURL, COINS, Sherpa+Romeo, XML import
+	* Document conversion, Solr
+	* Upcoming
+		* CitationStyles (Zotero/Medeley), ETDMS, Embargo, multiple imports
+		* EAC-CPF authorities
+		* research assests, assets associations
+		* OAI Dissemenator

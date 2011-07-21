@@ -1,0 +1,22 @@
+Title: Treasure Island(ora) - Building and Managing Islandora Collections
+Speaker: Donald Moses & Staff
+-----
+
+Planning Digital Collections
+	* Scanning
+		* digitization workflow
+		* filenames (using for base metadata)
+		* Metrics (for budgeting and project timelines)
+	* Selecting a metadata schema
+	* Create Fedora/Islandora Content Models (CModels)
+	* Collections within Islandora
+		* Collection ojbects (hierarchical)
+		* Metadata (via Solr)
+
+
+[HANDS ON DEMO - SEE VIDEO]
+
+Notes:
+	* can limit access via pid namespace
+		* these will be left out of solr index, etc
+

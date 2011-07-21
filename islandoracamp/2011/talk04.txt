@@ -1,0 +1,16 @@
+Camp session - Digital Humanities
+------
+
+Hamilton College is working with Discovery Garden on a specific Digital Humanities "sprout"
+
+What does the group want in a Digital Humanities "sprout"
+	* Working with book ingest pack:
+		* don't like working with uncompressed tiff
+		* need a range of variablity
+		* an image that is scanned horizontally, which is then rotated vertically is incompatable
+	* Desire for a process that can be interrupted or resumed
+	* Image correction
+	* want a streamlined process to update datastreams, and feedback to from process to say what is wrong...
+		* low contrast
+		* bad OCR
+
