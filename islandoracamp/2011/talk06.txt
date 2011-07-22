@@ -1,0 +1,5 @@
+Title: "Exploring the SOLR System" Islandora's Solr Module
+Speaker: Alan Stanley
+-----
+
+[ALL DEMO - SEE VIDEO]

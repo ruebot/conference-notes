@@ -1,0 +1,37 @@
+Title:  Formbuilder: Come and learn about how to create ingest forms for metadata schemas in Islandora
+Speaker: Nigel Banks
+-----
+
+An editor to let you build editors!
+
+Define a form to manipulate XML that is presented in Drupal
+	* Drupal-centric
+	* Based on forms API
+	* Generates XML document
+
+Associate forms with CModels
+
+Status and Availability
+	* Core development completed
+	* Bug fixes
+	* Usability improvements
+	* Documentation
+
+Coming soon
+	* Automatic validation
+	* Automatic element value validation based on the element's schema definition
+	* Multiple optional transforms to other XM formats upon ingest and edit
+
+Form Assocations
+Form Builder
+	
+[DEMO]
+
+Have to provide the schema individually for each form field
+	{ so if there are additional fields to dc, they can be added, just don't add the schema so it isn't validated
+
+depends on jquery_ui and jquery update
+ojbective_forms
+php_lib
+xml_forms
+

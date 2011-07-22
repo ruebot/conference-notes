@@ -1,0 +1,16 @@
+Title: Microservices - Learn how Microservices are transforming the way that objects are administered in Islandora
+Speaker: Jonathan Green
+-----
+
+What Fedora microservices does:
+	* sits in background behind Fedora and listens for JMS messages
+	* API-M methods
+	* Listens for messages from Islandora
+	* It subscribes to the messages from Fedora and Islandora
+	* Python
+	* (Current version only listens on Fedora)
+
+New shiny microservices
+
+https://github.com/Islandora/fedora_microservices
+
