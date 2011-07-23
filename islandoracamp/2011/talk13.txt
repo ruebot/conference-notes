@@ -1,0 +1,40 @@
+Title: Islandoras in the Research Stream
+Speaker: Dorothea Salo
+-----
+
+Data is there to be interacted with!
+
+If you can't do things with your data, there is no point in keeping it.
+
+Data is project based
+	* double edged sword
+	* fucks with sustainability
+	* organization/coordination
+	* fatigue
+
+Research is all about the money
+	* researcher doesn't have time for the data management
+	* those at the top with all the money and IT support can care about it
+	* those who don't could give fuck all
+	* if you can't do it yourself, you can't do it all
+
+Researchers tend to reject software for life
+	{ but! if you build something they like... well. you know
+
+Library responsibility, but resource starved. {coalition of the willing}
+
+Islandora problems
+	* Too much hand holding
+	* Needs to push this downstream - educate librarians
+		{ then we push back upstream! benefit to the entire community
+	* Normal humans have to create CModels
+	
+Suggestions!
+	* Sprouts and solution packs!
+		{ bite of small problems/self contained problems
+			{ CModels and metadata forms
+	* Easy ways to contribute recipies back to Islandora
+	* Cure Drupal and Fedora configuration difficulties
+	* Step back from feature driven development
+		{ focus on persona driven and task driven development
+			{ the inmates are running the asylum (book - read it!)

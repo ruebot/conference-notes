@@ -1,0 +1,10 @@
+Title: Tourpad: A Community Repository Project
+Speaker: Courtney Matthews and Dylan Sawyer
+------
+
+iPad app and community digitization project - discovery tool
+	* community outreach, and creation of a community repository
+	* grant funded and staged over a couple of years
+	* Geo-spatial tour guide based on community repo
+	* inegration with facebook, foursquare, gowalla, etc
+	

@@ -1,0 +1,41 @@
+Title: Consortial Islandora Environments
+Speaker: Paul Pound and Chet Rebman
+-----
+
+Consortial
+	* Many Drupal instances accessing one Fedora instance
+	* Could be many separate Drupal installs, or multisite setups
+	* Segmented by Fedora Pid namespace
+
+Examples
+	* Colorado Alliance
+	* UPEI Library
+	* UPEI VREs
+	* CAIRN (Caul Atlantic Islandora Repository Network)
+
+Advantages
+	* Each site can have own theme and layout
+	* Each site can manage own users
+	* Each site can have own roles and permissions
+	* Each site can have a different set of modules
+	* Only one Fedora instance to manage and maintain (backups, security policies, upgrades, etc)
+	* Each site can have own content
+	* OAI can be configured separately for each site and not all content needs to be exposed to OAI
+	* Each site can have own Solr index
+	* Each site has own Drupal Servlet Filter
+
+Issues
+	* Security - many Drupals hitting one Fedora instance
+		* Users with same name
+		* Drupal roles and permissions can grant or deny access to actions on Fedora objects
+		* Drupal permission to purge
+	* Limiting access to Pid namespaces helps
+	* Need to use XACML at the Fedora level
+	* Global or object level policies can be more granual than Drupal permissions
+	* Scheduling downtown for upgrades, etc
+	* Metadata standards - Formbuilder allows different ingest and metadata entry forms
+
+Metadata schema
+	* Must support *many* media types
+	* Schema has to be chosen ahead of time so that fields can be defined in Solr
+	* A change in Solr fields requires re-indexing

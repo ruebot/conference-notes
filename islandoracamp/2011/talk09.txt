@@ -1,0 +1,27 @@
+Title: Islandora Appliances: SOAR and Lib2o
+Speakers: Gail Truman and Laura Kelly
+-----
+
+SOAR = Scalable Online Archive & Repository
+	* Islandora and Storage Archive Manager (SAM) software
+	* ORacle/Sun
+	* Up to a Petabye
+	* Offered through Truman Technologies
+
+	* Design principles
+		* open source software (duh!)
+		* * 24x7 support
+		* Enbale seamless technology adoption and migration
+		* Allow for the use of most economical storage solution
+		* Provide integrity checks and fixes throughout the data path
+		* Fit into exisiting instrastructure
+
+Lib2.0
+	* Islandora and optional ILS (Evergreen/Koha)
+	* Dell
+	* Up to 12TB
+	* Offered through DGI and Truman Technologies
+
+"Technology has the life span of a banana"
+
+

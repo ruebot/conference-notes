@@ -1,0 +1,42 @@
+Title: Epistemetic Project: Extending Islandora the Drupal Way
+Speaker: Gian Mario 
+-----
+
+E-pistemetec Islandora Modules
+	* Islandora_mag
+	* Islandora_sync
+
+E-pistemetec project
+	* manuscripts, archived documents, books
+	* static images, animations, videos, audio
+	* multilingual support (ingestion and dissemenation)
+	* enriched by users
+	* drupal multisite support
+	* allow users make connections with objects
+
+Islandora_mag
+	* implements MAG - Italian metadata management standard
+		* gen (required)
+		* bib (required)
+	* save MAG metadata as datastream into FOXML
+	* Exposes a few hooks that shall be used for other modules
+	* hook_fedora_
+
+Islandora_sync
+	* makes a full or partial copy of fedora object metadata, creating one drupal node of a CCK content type for each object
+	* Fedora/Drupal rosetta!
+	* hook_fedora_alter
+	* hook_fedora_alter_purge
+	* how does the syncing work?
+		* by hooks!
+		* islandora_sync_fedora_alter_ingest
+		* islandora_sync_fedora_alter_edit
+		* or force syncing on configuration screen
+	* syncing allows the use of views, taxonomy, and all node based modules!
+	* use drupal solr module to search and index content
+	* allows for multiple front-end to a single fedora repo
+
+Next steps
+	* Multisite & Master-slave Drupal front-ends
+	* One-click E-pistemetec cloud installs?
+
