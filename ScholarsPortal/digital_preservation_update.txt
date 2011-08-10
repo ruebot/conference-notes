@@ -1,0 +1,49 @@
+Title: Digital Preservation Update - August 2011
+Presenter: Steve Marks
+
+-----
+
+Reserach, Teaching and Learning Support -> Member Services -> Digital Collections -> Preservations Services
+
+3 major projects
+	* Trusted Digital Repository
+		* certification
+	* International Polar Year (IPY)
+		* research data preservation
+		* working with partners to archive and make available
+	* Dataverse
+		* ties in with research data preservation
+		* platform for research data depositing
+
+Trusted Digital Repository
+	* Still working on TDR certification
+	* Tiered approach to preservation
+		* bit-level
+			* bit stream copying
+			* fixity checking
+			* documentation of file formats
+		* full preservation
+			* archival file formats
+			* normalization
+			* format migration
+	* Acomplishments
+		* Preservation policy approved by OCUL directors
+		* Technical implementation
+		* Close reading of preservation rights contained in licenses from vendors
+	* Audit is planned for early 2012
+
+International Polar Year
+	* In year two of a two-year project to collect and archive polar research data
+	* Partners include University of Alberta, University of Waterloo, DFO , CISTI
+	* Distributed preservation network
+	* ugh - iRODS
+
+Dataverse
+	* Pilot project around the creation of a research data repository
+	* Focus on ease-of-use to research and creation of "value neutral" repository evnironment
+	* Features include
+		* granualr, user-defined security
+		* versioning support
+		* format agnostic
+	* Runs on The Dataverse Network Project - http://thedata.org/
+
