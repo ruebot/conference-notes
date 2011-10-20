@@ -14,11 +14,11 @@ Growing a Free Software community, lessons learnt from the Koha community. It is
 Notes
 -----
 Free software array translated to libraryland:
-* Ask yourself, who has the software freedom, you or your vendor?
-* Freedom to check out when you want to
-* Freedom to weed
-* Freedom to expand your collection
-* Freedom to share
+- Ask yourself, who has the software freedom, you or your vendor?
+- Freedom to check out when you want to
+- Freedom to weed
+- Freedom to expand your collection
+- Freedom to share
 
 35% of the Koha committers are women!
 
