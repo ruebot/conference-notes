@@ -37,6 +37,8 @@ nosql vs. sql
 * 4 - 10x faster
 * 50-90% less memory
 
+| | |
+| _ | _: |
 | relational databases scale well | if your data is not hierarchical |
 | solr scales well | if you have infinite ram |
 | beware of the dogma of sql | nosql is a viable option |
