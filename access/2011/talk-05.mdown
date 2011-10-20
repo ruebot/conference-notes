@@ -1,0 +1,176 @@
+Digital Preservation from Coast to Coast
+=========================================
+
+Speakers
+--------
+
+Geoff Harder, Digital Initiatives Coordinator, University of Alberta
+http://access2011.library.ubc.ca/speakers/#geoff-harder
+
+Mark Jordan, Head of Library Systems, Simon Fraser University
+http://access2011.library.ubc.ca/speakers/#mark-jordan
+
+Slavko Manojlovich, Associate University Librarian Information Technology, Memorial University of Newfoundland
+http://access2011.library.ubc.ca/speakers/#slavko-manojlovich
+
+Bronwen Sprout, Digital Initiatives Coordinator, University of British Columbia
+http://access2011.library.ubc.ca/speakers/#bronwen-sprout
+
+Abstract 
+--------
+Four panelists will describe digital preservation programs at their libraries, with a focus on practical activities. Even though all panelists are from academic libraries that produce similar kinds of content, the panel will showcase a diverse set of approaches to the problems of digital preservation, curation, and long-term access.
+
+Notes
+-----
+Geoff Harder - UAL
+
+U Alberta has a 500 year commitment to long term access
+
+- 52TB storage capacity
+- 18TB usable
+- preservation storage: scalability, predictability and sustainability
+- 2012, expect to grow to 200TB
+- 2013, expect to grow to 300TB
+
+Digital Preservation Program:
+
+- Sustainable funding
+- External partnerships and networks (locks, pln, tdr network)
+- Staffing: expertise, time, attention
+- technology preservation microservices
+  - fixity
+  - checking
+  - format validation
+  - audit control
+- policies and practices
+
+TDR Program
+
+- Hold CRL workshop
+- Program planning, goal is to learn from focused implementation and scale outwards
+- UAL program incluse TDR plus gold, silver, bronze preservation efforts
+  - gold - most survive
+  - silver - most will survive
+  - bronze - we won't go out of our way
+- Hired a Digital Preservation Officer
+
+- Preservation planning is *always* front and centre
+- Use OAIS reference model - staff is using the terminology (hell yeah!)
+- Apply preservation actions to microservices
+- Multiple perservation strategies & streams emplyed to reduce risk, and issues of single points of failure
+
+Electronic content partnerships
+
+- LOCKS
+- COPPUL LOCKS PLN
+- CLOCKSS
+- LOCKSS-USDOCS
+- Portico
+
+I R O D S!!!
+
+Mark Jordon - SFU
+
+Just getting started
+
+- Starting to think systemcatically about digital preservation
+- Digital preservation and digital curation are in the library's new 5-year plan
+- We're not starting with a platform we're trying to start with a policy and practice -- THIS X 10!
+
+Library can't do it alone
+
+- IT Services
+- SFU Archives
+- VP Research
+- SFU Library
+
+University needs to think strategically
+
+- Value of institutional history
+- Direct $ value of digital conent
+- Risk management
+- Economies of scale and economies of collaboration
+
+Existing activity
+
+- Bit-level preservation
+- IR
+  - Mark's awesome Drupal based IR
+  - Summit - Agile platform for integrative with preservation infrastructure
+- Theses management system
+- LOCKSS
+- Workflow integration proof of concept
+  - Little project Mark told me about - Fedora integration with their processing system
+  - Completely transparent to enduser with current system
+- SFU Archives pilot
+  - Archviematica pilot project with former university President's email inbox
+- CARL CFI data management proposal (helped get ducks in order locally)
+
+Current areas of interest
+
+- How to handle video?
+- How to handle data?
+- Preservation metadata
+- Digital-only theses and associated content
+
+Slavko - MUN
+
+Environment
+
+- ContentDM, EPrints, OJS, Archivematica
+- 150 Collections
+- Content
+  - Theses
+  - Video
+  - Audio
+  - Maps
+  - Journals
+  - Monographs
+ 
+How to deal with the preservation planning portion of the OAIS model
+
+- Inventory of file types (DROID)
+- Media type preservation plans (use Archivematica plan!)
+  - Supported ingest format
+  - Access format
+  - Long-term preservation format
+  - Normalization tool
+
+- Monitor technology
+  - unholy cluster fuck of video preservation
+
+Browen - UBC
+
+Digital preservation project - Project components
+
+- Archivematica install and training
+- Gap analysis
+- Strategy and systems architecture
+- Findings will be openly accessible when complete
+
+Deliverables - Pilots
+
+- Rare books and special collections
+  - Ingesting born digital records into archivematica
+  - DIPs uploaded into ICA-AtoMi
+  - External media station workflow
+  - Intellectual issues
+    - Appraisal
+    - Accessibility
+    - Arrangement
+- University Archives
+- cIRcle digital repository (DSpace)
+  - Receive SIPs from DSpace
+- Digitization projects (CONTENTdm)
+  - Integrate DIPs from Archivematica
+- Website archiving
+- Data preservation
+
+Next steps
+
+- Complete pilot projects (DSpace & CONTENTdm)
+- Undertake migration projects
+- Website archiving (heritrix and Way Back Machine)
+- Research data
+- LOCKSS PLN
+- TDR certification
