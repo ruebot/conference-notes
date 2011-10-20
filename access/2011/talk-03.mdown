@@ -17,12 +17,12 @@ Libraries and consortia have a long history of managing millions of resources by
 Notes
 -----
 Idendity crisis - Who are we still?
-* space
-* portals
-* code
-* trusted digital repositories
-* we're context
-* the information
+- space
+- portals
+- code
+- trusted digital repositories
+- we're context
+- the information
 
 "In your scope, I am content."
 
@@ -36,20 +36,22 @@ Object relational model scales horribly
 Object document scales well
 
 write memory
+
 1. propel
 2. qubit
 3. solr
 4. odm
 
 nosql vs. sql
-* 4 - 10x faster
-* 50-90% less memory
+- 4 - 10x faster
+- 50-90% less memory
 
-
-| relational databases scale well | if your data is not hierarchical 
-| solr scales well | if you have infinite ram 
-| beware of the dogma of sql | nosql is a viable option 
-| think sideways | scale out
+| foor | bar |
+| ---- | --- |
+| relational databases scale well | if your data is not hierarchical |
+| solr scales well | if you have infinite ram |
+| beware of the dogma of sql | nosql is a viable option |
+| think sideways | scale out |
 
 big data is less about size, and more about freedom
 
