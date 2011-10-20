@@ -38,11 +38,10 @@ nosql vs. sql
 * 50-90% less memory
 
 
-| ------ | ------: |
-| relational databases scale well | if your data is not hierarchical |
-| solr scales well | if you have infinite ram |
-| beware of the dogma of sql | nosql is a viable option |
-| think sideways | scale out |
+| relational databases scale well | if your data is not hierarchical 
+| solr scales well | if you have infinite ram 
+| beware of the dogma of sql | nosql is a viable option 
+| think sideways | scale out
 
 big data is less about size, and more about freedom
 
