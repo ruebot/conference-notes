@@ -1,12 +1,19 @@
-# David Binkley Memorial Lecture: Embodied Histories & The Weight of Data #
+David Binkley Memorial Lecture: Embodied Histories & The Weight of Data 
+========================================================================
 
-## Speaker ##
+Speaker
+-------
 Jer Thorp, Data Artist in Residence, The New York Times
 
 http://access2011.library.ubc.ca/speakers/#jer-thorp
 http://blog.blprnt.com/
 
-## Notes ##
+Abstract
+--------
+Every day, each of us is adding to our own immense data inventory. Mobile phone records, social network conversations, purchase histories – all of these things are being stored, often without our knowledge or express permission. In this presentation, Jer will discuss how these data histories can be accessed, visualized and explored. He’ll show a variety of projects, including work from The New York Times R&D Group, the 9/11 Memorial in Manhattan, and Popular Science. He’ll walk through collaborative processes, admit to a series of spectacular failures and ultimately show how custom software tools can be made to solve extraordinary data problems.
+
+Notes
+-----
 "Hypercard was the last time computer companies thought *we* could be computer programmers"
 
 Visualization is not an end, but a tool for understanding

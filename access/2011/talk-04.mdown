@@ -1,0 +1,27 @@
+Tātou tātou: Caring and sharing in a Free and Open source Project
+=================================================================
+
+Speaker
+-------
+Chris Cormack, Senior Developer, Catalyst IT
+
+http://access2011.library.ubc.ca/speakers/#chris-cormack
+
+Abstract
+--------
+Growing a Free Software community, lessons learnt from the Koha community. It is widely acknowledged that one of the most important parts of a Free software project is the community. But how does that community evolve? What dangers does it face? How do you deal with the multicultural and multilingual realities of a worldwide community? Koha is a 11 year old project to build a free software ILS. As the project has grown in popularity it has had to overcome several challenges. This presentation will cover how we have grown the community, how we have overcome these challenges and where we can go from here.
+
+Notes
+-----
+Free software array translated to libraryland:
+* Ask yourself, who has the software freedom, you or your vendor?
+* Freedom to check out when you want to
+* Freedom to weed
+* Freedom to expand your collection
+* Freedom to share
+
+35% of the Koha committers are women!
+
+159 committers from every continent!
+
+Koha: a tool for social change

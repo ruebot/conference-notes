@@ -1,13 +1,21 @@
-# Big Data in Libraries: Has Open Source’s Time Arrived? #
+Big Data in Libraries: Has Open Source’s Time Arrived?
+======================================================
 
-## Speaker ##
+Speakers
+-------
 MJ Suhonos, Systems Librarian/Software Engineer, Artefactual Systems
 http://access2011.library.ubc.ca/speakers/#mj-suhonos
 
 Peter Van Garderen, President/Systems Archivist, Artefactual Systems
 http://access2011.library.ubc.ca/speakers/#peter-van-garderen
 
-## Notes ##
+Abstract
+---------
+
+Libraries and consortia have a long history of managing millions of resources by their very nature. However, administering and maintaining such vast quantities of data has generally remained a task that was only achievable by large software vendors and research cooperatives that could afford the systems to do so. At the same time, technology has advanced exponentially in the past few decades while the nature and complexity of library metadata has remained relatively unchanged. Open Source software in particular has grown rapidly in less than a decade, and a number of free tools designed for working with humongous amounts of data have recently matured significantly. This presentation will share the experiences and lessons gained during a detailed technical analysis of software performance on a data set of almost four million archival records. Both relational (SQL) and document-based (NoSQL) software architectures are compared and characterized, and the results reveal a number of implications for institutions looking to manage, index, and search massive amounts of metadata. Especially given the recent rise in popularity of Software-as-a-Service (SaaS) and cloud-based service offerings, has the time come for libraries to take control of the security and scalability of their own big data?
+
+Notes
+-----
 Idendity crisis - Who are we still?
 * space
 * portals
