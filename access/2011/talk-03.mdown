@@ -1,0 +1,47 @@
+# Big Data in Libraries: Has Open Source’s Time Arrived? #
+
+## Speaker ##
+MJ Suhonos, Systems Librarian/Software Engineer, Artefactual Systems
+http://access2011.library.ubc.ca/speakers/#mj-suhonos
+
+Peter Van Garderen, President/Systems Archivist, Artefactual Systems
+http://access2011.library.ubc.ca/speakers/#peter-van-garderen
+
+## Notes ##
+Idendity crisis - Who are we still?
+* space
+* portals
+* code
+* trusted digital repositories
+* we're context
+* the information
+
+"In your scope, I am content."
+
+"We should be in charge of the community space."
+
+occupythememory.org
+
+Big data for libraries isn't that big, but it is really hard to work with. #MARC
+
+Object relational model scales horribly
+Object document scales well
+
+write memory
+1. propel
+2. qubit
+3. solr
+4. odm
+
+nosql vs. sql
+* 4 - 10x faster
+* 50-90% less memory
+
+| relational databases scale well | if your data is not hierarchical |
+| solr scales well | if you have infinite ram |
+| beware of the dogma of sql | nosql is a viable option |
+| think sideways | scale out |
+
+big data is less about size, and more about freedom
+
+open source tools + distrubted design = new opportunities

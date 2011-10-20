@@ -1,0 +1,14 @@
+# David Binkley Memorial Lecture: Embodied Histories & The Weight of Data #
+
+## Speaker ##
+Jer Thorp, Data Artist in Residence, The New York Times
+
+http://access2011.library.ubc.ca/speakers/#jer-thorp
+http://blog.blprnt.com/
+
+## Notes ##
+"Hypercard was the last time computer companies thought *we* could be computer programmers"
+
+Visualization is not an end, but a tool for understanding
+
+Humanizatio of data - making data more personal

@@ -1,0 +1,27 @@
+# Opening Keynote: From Access to Interactivity #
+
+## Speaker ##
+Jon Beasley-Murray, Assistant Professor, University of British Columbia
+
+http://access2011.library.ubc.ca/speakers/#jon-beasley-murray
+
+http://posthegemony.blogspot.com/
+
+## Notes ##
+OH MY. KNOWLEDGE 3.0
+
+"The privatization of a university is the death of a university."
+
+rails on:
+* Access Copyright
+* Blackboard
+* Privatization of the common
+* Academic publishing
+
+"Libraries are like Vegas - turning every available space into gaming machines."
+
+Rather than access, interactivity... university should not pander to, or service society.
+
+Borges teaches us that meaning is interactive - reading is never passive - readers  help produce the meaning of a text
+
+For the most part speaking to the choir, but great talk
