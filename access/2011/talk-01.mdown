@@ -24,6 +24,7 @@ OH MY. KNOWLEDGE 3.0
 "The privatization of a university is the death of a university."
 
 rails on:
+
 - Access Copyright
 - Blackboard
 - Privatization of the common

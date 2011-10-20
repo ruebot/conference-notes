@@ -17,6 +17,7 @@ Libraries and consortia have a long history of managing millions of resources by
 Notes
 -----
 Idendity crisis - Who are we still?
+
 - space
 - portals
 - code
@@ -43,11 +44,12 @@ write memory
 4. odm
 
 nosql vs. sql
+
 - 4 - 10x faster
 - 50-90% less memory
 
-| foor | bar |
-| ---- | --- |
+| foo | bar |
+| --- | --- |
 | relational databases scale well | if your data is not hierarchical |
 | solr scales well | if you have infinite ram |
 | beware of the dogma of sql | nosql is a viable option |
