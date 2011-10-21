@@ -1,0 +1,79 @@
+Canadiana Discovery Portal Metadata and API
+===========================================
+
+Speaker
+-------
+William Wueppelmann, Manager, Information Systems, Canadiana.org
+http://access2011.library.ubc.ca/speakers/#william-wueppelmann
+
+Abstract
+-------
+The Canadiana Discovery Portal was launched in the spring of 2010. By the end of its first year, it had indexed the metadata for about a million digital objects from a variety of libraries, museums, archives and galleries. Its goal is to be a centralized metadata repository for all of Canada’s digital content, accepting metadata from anyone who wants to contribute it, and exposing that metadata both interactively and through a Web service API. We’ll look more closely at the metadata ingest and normalization standards we’ve developed as well as the public Web API for searching and retrieving the collected metadata.
+
+Notes
+-----
+What is it?
+
+  - Goal: make canada's digital collections searchable in one place
+  - contributed metadata (canadiana normalizes it)
+  - online since spring 2010
+  - successor to allouette portal
+  - links point back to original object
+
+Technology
+
+  - perl/catalyst
+  - template toolkit
+  - mysql
+  - solr, etc
+
+Search capabilities
+
+  - keywords, phrases, wildcards, boolean
+  - basic solr stuff
+  - full commandline for advanced users
+
+Contents
+
+  - 1 million items
+  - page, document, series level indexing
+  - any museum, libray, archive can contribute
+  - simplied subset of metadata: a finding aid, not a union catalogue
+
+Ingestion and conversion
+
+  - harvest
+    - marcxml
+    - dublin core
+    - weird csv
+    - xml + ocr txt files
+  - xslt transform to standard cmr format
+
+From CMR to Solr index
+  
+  - CMR is a relatively standard intermediary format
+  - Solr schema updated regualry to accomodate application changes
+
+CMR function requirements
+
+  - map metadata from diverse sources
+  - normalize sortable/facetable data
+  - simple to convert to solr schema
+  - manage and link parent child relationsships
+  - extensible
+
+Metadata normalization
+
+  - purpose: enable sorting, faceting, subsetting
+  - focus on low effort
+  - date normalization
+    - horrible, horrible fucking shit
+    - HATE
+    - HATE
+    - HATE
+
+Web service API
+
+  - simple web service api
+  - extension of jquery interface
+
