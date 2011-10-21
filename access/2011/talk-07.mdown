@@ -1,0 +1,88 @@
+Softly, Softly, Catchee Monkey: Successful Development and Implementation
+=========================================================================
+
+Speakers
+--------
+Matt Carlson, ILS Administrator, King County Library System
+http://access2011.library.ubc.ca/speakers/#matt-carlson
+
+Grace Dunbar, COO, Equinox
+http://access2011.library.ubc.ca/speakers/#grace-dunbar
+
+Abstract
+--------
+Matt Carlson from KCLS and Grace Dunbar from Equinox Software will guide attendees through the seedy underbelly of the open source software development process. They will deconstruct the process of creating and following through with an outsourced development project from both the client and vendor points of view. This session will cover the basics of identifying development needs, creating a scope of work, implementation, training, and, most importantly, keeping your eyes on the prize. The presentation will end with a recap of best practices and lessons learned from the recent development partnership between KCLS and Equinox.
+
+Notes
+-----
+Is *blank open source project* ready for you?
+  - Test server - with a stable release!
+  - Gap analysis
+    - software dependant?
+    - workflow dependant?
+  - Are gaps major or minor?
+    - Major gaps = large development projects
+    - Minor gaps = be creative
+  - FUNCTIONAL REQUIREMENTS!!!
+    - use cases - NO EDGE CASES
+    - workflows - how do they work, and document it, quirks and all
+    - focus on outcomes, NOT PROCESS
+    - be specific
+  - Functional requirements -> SCOPE OF WORK!
+    - engage community (irc, mailing lists, conferences)
+    - look locally
+    - wire and RFI or RFP
+    - Request of a quote from a vendor
+    - Hire a consultant
+  - The Contract
+    - BE SPECIFIC!
+      - hours estimates
+      - costs
+      - ownership of work
+    - interaction with the community (vendor needs to)
+      - no small one-off features
+      - roll features into master
+    - deliverables
+    - milestones
+    - testing/sign-off
+  - Client perspective
+    - challenges
+      - communication
+      - scope creep
+      - be realistic about time for testing, clarifications and feedback
+    - best practices
+      - update project plan
+      - build a team of subject matter experts
+      - provide real examples, use cases and mockups whenever possible
+    - it's never too soon to start thinking about your live timeline and identify dependencies
+  - Vendor perspectives
+    - challenges
+      - multiple clients/projects competing for time
+      - communication
+      - use cases
+    - best practices
+      - 1-to-1 project managers
+      - clear, shared objectives (client/vendor/community) -- YES. THAT.
+      - set priorities
+    - Test
+      - Create a test manual!
+      - engage staff and patrons - usability
+      - you will need a test server for testing and training. period.
+      - have an exit strategy
+    - STAY ON TARGET! (edge cases will appear, stay focus on the task at hand/priority list)
+      - "No plan survives initial contact."
+    - Training
+      - managers are usually not the best people to do the training
+      - set aside mandatory time
+      - structured feedback is absolutely critical
+      - have a plan for on-going training
+    - Implementation
+      - implement in phases!
+      - have a fall back plan!
+        - rollback to previous versions, hot spare, offline mode, etc
+      - change is hard
+      - CELEBRATE
+    - DO...
+      - HAVE FUN!
+      - HAVE A LIFE OUTSIDE THE PROJECT
+
