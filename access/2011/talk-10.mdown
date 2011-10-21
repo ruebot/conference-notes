@@ -1,0 +1,67 @@
+Gardening the Wiki, Growing the Web: Transforming UBC Library’s approach to content management through UBC Wiki
+===============================================================================================================
+
+Speakers
+--------
+Paul Joseph, Systems Librarian, University of British Columbia
+http://access2011.library.ubc.ca/speakers/#paul-joseph
+
+Will Engle, Wiki Administrator, University of British Columbia
+http://access2011.library.ubc.ca/speakers/#will-engle
+
+Julie Mitchell, Learning Commons Coordinator, University of British Columbia
+http://access2011.library.ubc.ca/speakers/#julie-mitchell
+
+Abstract
+--------
+Over the last two years, UBC Wiki has transformed UBC Library’s approach to content management. Working in conjunction with multiple WordPress websites as delivery tools, UBC Library staff are able to use the wiki as an open space to collaborate and build online content that is automatically republished across multiple UBC Library and University websites. This process challenges previously locked-down content management systems, and empowers staff to edit and share content to benefit the campus community. UBC’s Centre for Teaching and Learning Technology (CTLT) are driving this innovative approach, providing several web publishing services to the UBC community, including WordPress (as UBC CMS) and MediaWiki (as UBC Wiki). Multiple faculties, departments, and individual users, including UBC Library and the Learning Commons, have been adopting the wiki as a convenient centralized repository for web that offers the capability to seamlessly push content to multiple websites. This session will feature a panel of four speakers who worked collaboratively on this innovative approach to content management at UBC. Two CTLT staff members (Novak Rogic, Manager, Web Strategy, and Will Engle, Wiki Administrator) will speak from their perspectives of building and administrating the UBC CMS/Wiki service. Two Librarians (Julie Mitchell, Learning Commons Coordinator, and Paul Joseph, Systems Librarian) will address how the UBC Library is effectively using the system as a shared knowledge base and publishing UBC Wiki content to various UBC CMS websites.
+
+Notes
+-----
+Well, well, well. Wikis done right at a library.
+
+Embedding wiki pages into content management systems, library webpages and university webpages
+
+All done through campus wide wiki instance
+
+Technology stack
+
+  - Movable type 
+  - RSS feeds 
+  - MediaWiki
+  - WordPress
+
+Empowering content creators
+
+  - artsists, not plumbers
+    - remove the tech overhead
+  - fulfill teaching and learning
+
+Germination
+
+  - CTLT
+    - platform
+    - integration
+  - Public Affairs
+    - design
+  - UBC Library
+    - website redesign
+    - CMS
+      - time
+      - resource
+      - workflow
+    - 3rd party solution
+      - scalable
+      - partnership
+      - library context
+      - cwl
+      - clf
+  - Key ingredients
+    - CWL auth
+    - Common look and feel over sites/tech
+    - OSS
+    - Committed team
+
+    IT IS TOO HOT IN HERE.
+
+    /me PASSES OUT
