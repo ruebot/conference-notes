@@ -1,0 +1,54 @@
+Open to the Public: Indigenous Collections and the Ethics of Openness
+=====================================================================
+
+Speakers
+--------
+Kimberly Christen, Associate Professor, Washington State University
+http://access2011.library.ubc.ca/speakers/#kimberly-christen
+
+Alex Merrill, Digital Initiative Librarian, Washington State University
+http://access2011.library.ubc.ca/speakers/#alex-merrill
+
+Abstract
+--------
+In the last twenty years collecting institutions have heeded the calls of Indigenous activists to integrate Indigenous curatorial models and knowledge systems into mainstream museum and archive practices. Web 2.0 technologies grounded in user-generated content and bottom-up exhibition and display modes have aided in producing a dynamic platform for sharing materials. This newly animated digital terrain, however, poses both possibilities and problems for Indigenous peoples as they seek to manage, revive, circulate and create new cultural heritage on their own and in collaboration with collecting institutions. While digital technologies allow for objects to be repatriated quickly, circulated widely and annotated endlessly, these same technologies pose challenges to Indigenous communities who wish to maintain traditional cultural protocols for the viewing, circulation and reproduction of their cultural materials. In these cases it is precisely the celebrated ease of circulation and lack of control that intrudes on and erases many Indigenous models for the circulation, reproduction and preservation of cultural knowledge and materials. Librarians are especially attuned to the nuances of collections materials as they seek to make resources available for multiple publics with oftentimes-divergent interests. Issues of access are paramount to librarians as they seek to make collections available in both physical and digital form. This presentation engages with engrained assumptions about the general public good of making collections accessible and the ethical dilemmas facing information specialists as they seek to negotiate the variances between Indigenous knowledge systems and their professional imperative to make collections “open to the public.” Specifically we will discuss the creation of the Plateau Peoples’ Web Portal, a reciprocally curated online archive of Native collections. We will discuss the projects goals, its technical foundation and its ethical underpinnings and provide a framework for ethical curation models and practical digital asset management in collaboration with Indigenous communities.
+
+Notes
+-----
+Digital repatration
+
+- partnership
+  - libraries
+  - tribes
+    - access to records
+    - equal say : equal voice
+      - how to layer it? : disseminate it?
+    - control : wanted to be able to add context to the record
+    - each tribe has their own distinct welcome/introduction page
+  - plateau center
+  - smithsonian
+  - northwest museum of art and culture
+-about the project
+  - everything open by default
+    - don't violate tribal ethics
+    - curate collection in consultation with community
+  - metadata
+    - standard dublin core
+    - tribal knowledge field
+      - time stamped
+      - dated
+      - author tracked : no tribal knowledge field contributions can be anonymous
+  - access control
+    - 5 levels (level user, level scholar, tribal admin, institutional admin, super admin)
+    - ingest
+      - consultation -> digitize -> metadata tribal curation
+      - digitization -> metadata set access -> tribal curation
+      - 12 levels of tribal categories (taxonomy) in addition to LC Subject headings
+    - Tribal restrictions
+      - open to all
+      - open to all affilliated tribes
+      - open to elders
+- technology (http://cms.wsulibs.wsu.edu/social/plateau/technology/)
+  - LAMP stack
+  - YUI
+  - Still not clear what this all it, but it looks like they are going to port it to Drupal 7
