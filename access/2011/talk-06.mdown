@@ -52,3 +52,5 @@ Digital repatration
   - LAMP stack
   - YUI
   - Still not clear what this all it, but it looks like they are going to port it to Drupal 7
+
+This is the software they kept on referring to - http://www.mukurtu.org/ - thanks jambina!
