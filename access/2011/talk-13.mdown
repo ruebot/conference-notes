@@ -1,0 +1,39 @@
+All together now: creating software ecosystems from open, interoperable components
+==================================================================================
+
+Speakers
+----
+Bess Sadler, Software Engineer, Stanford University
+http://access2011.library.ubc.ca/speakers/#bess-sadler
+
+Marty Tarle, VP Engineering, Bibliocommons
+http://access2011.library.ubc.ca/speakers/#marty-tarle
+
+Abstract
+----
+Marty Tarle (BiblioCommons) and Bess Sadler (Stanford University Libraries, Blacklight, Hydra) will discuss various patterns for combining software components together into larger software ecosystems.  We’ll discuss distributed development, open systems and APIs, test driven development, continuous integration, and playing nicely with other software projects.
+
+Notes
+----
+Bess
+
+Plugin architecture
+
+  - clean separation between shared code and local modifications
+  - clean upgrade path
+  - plugin modules for new fuctionality
+  - local innovation doesn't have to wait on the larger community
+
+"When I see you working together, it's like you're all on the same team."
+
+No code without tests
+
+  - echo system
+  - instant notification of changes
+    - tweet
+    - irc
+    - commit log
+  - everyone knows when something breaks
+  - automatic documentation
+    - docs are consistant, public and automatic
+    - PEER PRESSURE

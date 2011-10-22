@@ -1,0 +1,24 @@
+Evergreen ILS undressed
+=====================
+
+Speakers
+-----
+Ben Hyman, Managing Director, BC Libraries Cooperative
+http://access2011.library.ubc.ca/speakers/#ben-hyman
+
+Jed Moffitt, Director of Information Technology Services, King County Library System (KCLS)
+http://access2011.library.ubc.ca/speakers/#jed-moffitt 
+  
+Steven Chan, Sitka Project Team
+http://access2011.library.ubc.ca/speakers/#steven-chan
+
+James Fournie, Librarian/Developer, Sitka Project Team
+http://access2011.library.ubc.ca/speakers/#james-fournie
+
+Abstract
+----
+Join panelists from KCLS, Sitka and the larger Evergreen community as they share their implementation and development stories; hear hot tips and learn about exciting development in progress.
+
+Notes
+----
+got nothing - good folks talking about evergreen

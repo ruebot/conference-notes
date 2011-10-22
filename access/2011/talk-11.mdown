@@ -1,0 +1,36 @@
+Open research data: fun, important, and in need of librarians
+=========
+
+Speaker
+---
+Heather Piwowar, DataONE Postdoc, UBC, NESCent, and Dryad
+http://access2011.library.ubc.ca/speakers/#heather-piwowar
+
+Abstract
+----
+The results of research studies are communicated through conference papers and journal articles. The datasets behind the results — spreadsheets containing collected data, for example — are usually hidden from view on investigators’ hard-drives.  Thanks to the wonders of the internet it is now possible to host academic research datasets online, thereby making research data open and widely available for confirmation, reanalysis, and integration.  The revolution toward more efficient and inclusive research progress through data access is just beginning.  This presentation will highlight the promise of open research data and why academic (and public!) libraries and librarians are necessary as advisors, educators, and data hosts.
+
+Notes
+----
+preserving research data makes the shoulders of those we want to stand on broader
+
+current data access is self selecting: not efficient or fair
+
+data preservation needs librarians because:
+
+  - needs a host
+  - permanent urls
+  - educate
+  - advocate
+
+where should data be stored:
+  
+  - institutional repositories
+  - domain repositories
+  - the answer is not clear
+  - a lot of data doesn't have a home because it is not clear where it should live
+
+"Do you think no one wants your data, so - why share? Well, no one wanted your figurine collection either - UNTIL you put it on Ebay"
+
+http://total-impact.org/
+

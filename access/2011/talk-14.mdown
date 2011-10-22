@@ -1,0 +1,52 @@
+Closing Keynote – Open Data Policy
+=================================
+
+Speaker
+----
+Andrea Reimer, Councillor, City of Vancouver
+http://access2011.library.ubc.ca/speakers/#andrea-reimer
+
+Notes
+----
+Open3
+
+  - involved
+  - active
+  - empowered
+
+Where did the open government iniative come from?
+
+  - creating a city that thinks like the web
+    - open and accessible data
+      - the city of vancouver will freely share share with citizens, businesses and other jurisdictions the greatest amount of data possible while respectiving privacy and security concerns;
+      - data.vancouver.ca
+    - open standards
+      - the city of vancouver will move as quickly as possible to adopt prevailing open standards for data, documents, maps, and other formats for media;
+      - recollect.net (trashpick)
+    - open source software
+      - the city of vancouver, when replacing existing software or considering new applications, will place open source software on an equal footing with commercial systems during procurement cycles; and
+      - be it further resolved that in pursuit of open data the city of vancouver will:
+        - identify immediate opportunities to distribute more of its data;
+        - index, publish and syndicate its data...
+    - insprired by:
+      - toronto
+      - barcamp
+      - changecamp
+      - web2.0 summit
+      - apps for democracy
+      - open everything
+      - transitcamp
+    - bonus points?
+      - other cities buying into it
+      - pixar moved an office to vancouver because the open3 iniative
+      - hosted creative economy council
+      - won the most innovative business award from the british columbia business magazine
+    - what's missing?
+      - YOU
+        - use data
+        - distribute data
+        - make it valuable
+    - what does it all mean?
+      - citizen can be involved, active, and empowered!
+      - JUST DO IT!
+      - SPEAK TO ELECTED OFFICIALS AND THE PUBLIC, NOT EACH OTHER!
