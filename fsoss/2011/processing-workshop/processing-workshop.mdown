@@ -1,0 +1,33 @@
+Introduction to Processing.js for Web and Mobile
+==============================================
+
+Speakers
+---
+Jon Buckley
+http://fsoss.senecac.on.ca/2011/user/102
+
+David Humphrey
+http://fsoss.senecac.on.ca/2011/user/103
+
+Abstract
+---
+Processing.js (http://processingjs.org) is the web version of the Processing visual programming language (http://processing.org). Processing has a long history of being the tool of choice for designers, artists, and others doing graphical work. It was designed to be easy to learn, and easy to use. Processing.js takes Processing and makes it work on the web.
+
+In this workshop we'll show you how to create Processing.js programs (called 'sketches'). We'll look at examples of work others have done, and show you different ways to get your code working on the web. Along the way we'll explore topics such as:
+
+* loading and interacting with remote web content, data, and services
+* using web and mobile APIs in your sketches
+* mixing Processing.js with other graphics and multimedia web technologies
+
+Notes
+---
+http://scotland.proximity.on.ca/jbuck/processing-mobile/
+
+sample code
+
+size(450, 450);
+
+textSize(80);
+text("Hello World"), 20, height/2);
+
+
