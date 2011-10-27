@@ -19,9 +19,12 @@ In this workshop we'll show you how to create Processing.js programs (called 'sk
 * using web and mobile APIs in your sketches
 * mixing Processing.js with other graphics and multimedia web technologies
 
+http://fsoss.senecac.on.ca/2011/node/101
+
 Notes
 ---
 http://scotland.proximity.on.ca/jbuck/processing-mobile/
+http://scotland.proximity.on.ca/jbuck/processing-mobile/examples/basic/
 
 sample code
 
@@ -29,5 +32,14 @@ size(450, 450);
 
 textSize(80);
 text("Hello World"), 20, height/2);
+
+we're just going through the examples in the above examples link.
+
+http://m-i-b.com.ar/letters/en
+
+http://processingjs.org/exhibition
+
+what portion of java does processing use?
+http://processingjs.org/reference
 
 
