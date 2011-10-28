@@ -1,0 +1,90 @@
+looking deep into the cloud with systemtap
+=========================================
+
+Speaker
+---
+Frank Eigler
+http://fsoss.senecac.on.ca/2011/user/59
+
+Dave Brolley
+http://fsoss.senecac.on.ca/2011/user/83
+
+Chris Meek
+http://fsoss.senecac.on.ca/2011/user/84
+
+Abstract
+----
+Systemtap is a system-wide instrumentation tool for linux, encompassing tracing, profiling, and bugging, in a unique programmable batch-oriented interface. We will review this technology and use cases, and offer some comparisons to other tools.
+
+Systemtap's flexibility has been recently applied to networks, to let it stretch from debugging single processes, through tracing networks of computers, to monitoring farms of virtual machines. We will show some examples of solved problems in each category.
+
+Notes
+---
+
+intro
+  
+  * systemtap: a tool for system-wide instrumentation
+    * look into live, unmodified systems
+    * examine what is going on
+    * take action as appropriate
+  * inspired by Sun dtrace, IBM dprobes, etc
+  * GPL license, open project since 2005
+  * current release 1.6
+
+version flexibility
+
+  * heerogeneoeus computer network
+  * running different versions of the OS and/or apps
+  * patching or upgrading not always practical
+  * sometimes need a tool that works across the spectrum
+
+example scripts
+  
+  * 80 come with package
+  * demonstrate common uses
+
+how it works
+
+  * probe points
+    * provide operational definition of events
+    * context variables to probe handlers
+  * probe handlers
+    * small safe domain-specific language
+    * loops, conditionals, functions
+    * inferred strong data typing for tempory and context variables
+    * arrays
+  * script
+    * can run concurrently
+    * can be remotely executed
+
+how it works
+  
+  * compile (local or remote)
+  * something else
+
+applying it to the cloud
+
+  * ummmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+  * /me waits for this guy to get to the point
+
+kvm operation
+
+  * guest instructions executed by svm/vmx-capable cpu
+  * instructions triggering VM or I/O cause a "vmexit"
+    * I/O emulated in qemu user-space
+    * VM (paging) emulated in kvm kernel-space
+  * then "vmentry" to resume execution of guest
+  * good performance relies on minimizing rate and duration of vmexits
+  * good analysis requires instrumenting both kernel and user-side vmexit
+
+I LIKE TURTLES
+
+stap applied to kvm
+
+  * list available static instrumentation sites
+    * user: stap -l 'qemu.**'
+    * kernel: stap -l 'kernel.trace("kvm*")'
+  * some examples: https://github.com/wcohen/qemu_systemtap
+
+DEMO TIME - BOM CHICHA CHICHA BOM
+

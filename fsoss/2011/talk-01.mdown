@@ -1,0 +1,108 @@
+Lecture Broadcast and Capture with BigBlueButton
+=========================================
+
+Speakers
+-----
+Fred Dixon
+http://fsoss.senecac.on.ca/2011/user/62
+
+Abstract
+----
+BigBlueButton is an open source web conferencing system for distance education. The project's goal is to enable remote students to have a high-quality learning experience.
+
+This year the project added the ability to record a lecture, enabling universities and colleges to capture their lectures for students to later review.
+
+Fred Dixon, one of the BigBlueButton developers, will describe the architecture and implementation of record and playback as well as BigBlueButton's integration with Moodle. For the architecture, Fred will describe how the developers extended BigBlueButton to capture lectures, and how it uses popcorn.js to enable playback of recorded lectures within a HTML5 browser
+
+For the integration with Moodle, Fred will demonstrate the how the integration with Moodle enables teachers to schedule and broadcast their lectures, as well as record and manage the recordings from within Moodle's interface.
+
+Fred will also talk about BigBlueButton's recent integration Matterhorn, an open source project for processing and management of captured lectures.
+
+http://fsoss.senecac.on.ca/2011/node/70
+
+Notes
+----
+Goal: 
+  To enable universities and colleges to provide remote studentss a high-quality learning experience
+
+History
+
+  * 2007 Started at Carleton University
+  * 2009 Open source: slides, audio, chat, video VoIP
+  * 2010 Whiteboard
+  * 2011 recording and playback
+
+Values
+
+  * Treat BigBlueButton as a product
+  * Maintain the absolute simplest interface - ROI = use case + adoption
+  * Make it easy to install
+  * Provide first-class community support
+    * Losts of effort into documentation, videos, FAQ and forums
+
+Use Cases
+
+  * Virtual office hours
+  * Small group collaboration
+  * Distance education
+  * One-to-One, One-to-Many, Many-to-Many
+
+This dude is pretty honest
+
+Integration
+
+  * Drupal
+  * Moodle
+  * Sakai
+  * Wordperss
+  * Joombla
+
+Associated projects
+
+  * red5
+  * tomcat6
+  * redis
+  * freeSWITCH
+  * swftools
+  * nginx
+  * ffmpeg
+  * ghostscript
+  * ImageMagick
+  * gralis
+  * OpenOffice
+  * scala
+  * popcorn.js
+
+Recording challenges
+
+  * synchronization of events and media
+    * audio, webcam, desktop, whiteboard, chat, raise a hand, who is talking
+  * user interface
+  * size of playback files
+
+Lecture capture
+
+  1. capture and archive individual media and events
+  2. create a workflow to process the captured data
+  3. make the workflow extensible
+  4. provide html5 playback of recordings
+
+yep, this project is pretty rad
+
+Intergration with Matterhorn
+
+Moving forward
+
+  * AODA
+  * HTML5
+    * They have HTML5 playback support
+    * Want HTML5 participation support
+    * Want 1st class HTML5 client
+  * Modularity (BigBlueButton Toolbox)
+
+Project
+
+  * enable students with mobile devices to collaborate with BBB (think clickers)
+  * Android client
+
+well, well, well they did an interview on FLOSS Weekly

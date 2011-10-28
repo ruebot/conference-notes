@@ -1,0 +1,29 @@
+Un-bork your hardware: bake it!
+==============================
+
+Speaker
+---
+Aylwin Lo
+http://fsoss.senecac.on.ca/2011/user/74
+
+Abstract
+---
+nstalling Linux on an aging, crapware-infested PC is a great way to rescue it from the scrap heap. But what's a resourceful tech to do when hardware fails? I will describe my experience reviving my out-of-warranty MacBook Pro by removing the logic board and carefully baking it in my kitchen oven, thus re-flowing the solder and restoring component connectivity. This is a technique that can be extended to all kinds of hardware. Few people are aware of it, and this could be a great last-ditch effort to reduce e-waste, save money and improve access to technology.
+
+Notes
+---
+will i ever find out what baking a macbook has to do with FSOSS?
+
+best answer: "i lived in a house with a bunch of linux user about 11 years ago."
+
+remove all the thermal paste off of parts before hand
+
+pre-heat oven to 385F
+
+place on baking tray with small foil balls underneath for airflow
+
+bake for 8 minutes
+
+re-apply thermal paste
+
+
