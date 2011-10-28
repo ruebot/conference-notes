@@ -1,0 +1,20 @@
+Comparing Unity and Gnome 3
+===================
+
+Speaker
+---
+Gordon Campbell
+http://fsoss.senecac.on.ca/2011/user/53
+
+Abstract
+---
+Traditional Linux user interfaces are under attack. Have a look at the key features of the next generation UIs.
+
+http://fsoss.senecac.on.ca/2011/node/62
+
+
+Notes
+---
+mayun, this is going to be painful.
+
+this is not a comparision. this is a walk through. FFUU
