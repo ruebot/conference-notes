@@ -9,4 +9,61 @@ https://urresearch.rochester.edu/viewResearcherPage.action?researcherId=5
 
 Notes
 ---
+User Research
 
+- user research is of limited value if a library doesn't have control over its discovery environment
+- solution
+  - develop own software (eXtensible toolkit)
+  - offer module architecture
+
+Check out their book - availble in their IR
+
+- FRBR! - users want to choose between versions of a resource, see relationshiips between a resource
+  - RDA elements
+  - metadata services to aggregate metadata sources
+- users have preferred material and format types depending their content type
+- more control over metadata -> better discoverability
+- XC Schema
+  - dublin core (all)
+  - RDA
+  - XC elements (newly defined)
+  - MARC
+
+Discovery Interface
+
+LIVE DEMO IN A KEYNOTE - BLERG!
+
+- all done in drupal
+- no marc records (all XC Schema)
+- highly configurable
+- their toolkit forces an ILS to speak open standards
+- globally unique identifiers
+- records point to each other (FRBR expressions point to each other)
+
+Software Overview
+
+- Drupal
+  - search
+  - browse
+- Metadata Services Toolkit
+  - cleanup
+  - format convert
+- OAI
+- NCIP
+  - ils connectivity
+  - circ status
+  - account info
+  - authentication
+
+VENDORS SHOULD NOT GIVE KEYNOTES.
+
+Linked Data in XC
+
+- Semantic web - refers to a set of technologies that allow computers to understand the meaning of information on the web.
+- Linked data is a mechanism for exposing, sharing and connecting data on the web
+- ugh, 10 people here raised their hands for know what linked data is. /me weeps
+- RDF Triple THIS PRESENTATION HAS SPEAKER VENDORFOO
+- All XC Schema elements are registered in the Open Metadata Registry
+- ho, ho, ho, XC software is linked data ready
+
+CLOSING WITH A VENDOR PITCH.
