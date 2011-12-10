@@ -7,4 +7,96 @@ Alan Darnell, Jacqueline Whyte Appleby, Charlotte Innerd, Dana Thomas, Bartek Ka
 
 Notes
 ---
+Research, Teaching & Learning Support
 
+- LibGuides
+  - RefWorks Guide
+  - WizFolio Guide
+  - Odesi Guide
+  - Journals Guide
+  - Iter Press
+  - Open Access (created for OA Week)
+  - GeoPortal Guide
+  - RACER Guide
+  - Future Guide
+    - Subject focused guides, integrating scholarship at OCUL institutions
+    - Showcases of member university's research
+    - AODA FAQ
+    - Tips & Tricks (commonly used databases)
+
+- RefWorks
+  - Write & Cite 4 being rolled out
+  - Training resources probably available in January
+  - Interface is same for Mac & PC now
+  - Group code is going away
+    - users will not need it anymore
+    - all Canadian users will need a unique name going forward
+    - will not need to be proxied after first login
+    - shibolleth support
+
+Member Support Services
+
+- Provide tools & services to staff at member libraries to support them in their work
+  - OUR Project
+    - Response to the urgent need of the OCUL schools to present usage rights to end users (Access Copyright response)
+    - Adopted the MONDO Grinder application developed at UBC
+      - made it work for consortia
+      - linked licenses to SFX targets
+    - OCUL Office reviewed and entered usage rights data for all consortial licenses
+    - SP mapped these to SFX targets and created instances of OUR
+    - Central instance replicated out to the 21 VPS instances
+      - can modify consortial held and locally held
+  - Discovery Layer RFI/RFP
+    - SP is working with UTL Finacial staff to issue a RFI for a Discovery System
+    - Goal is to acquire a consortial license
+    - Search committee established late last summer and detailed function requirements
+    - RFI should go out in early January
+  - MINES  
+    - Beyond the ARL variables, SP added dimension to facilitate additional analyses of the data
+      - ISBN/ISSN
+      - Normalized publisher and vendor names
+      - Database names
+      - Resource types
+      - Subscription type
+      - Consortia
+    - Coded results are available on SPOTdocs
+    - Instructions for working with our data in SPSS are also available on SPOTdocs
+  - SPUD
+    - SP is a COUNTER compliant vendor for journal and book usage data
+    - Reports can be retrieved via SPUD
+  - SCOT (Serials Collection Overlap Tool)
+    - Now available for all schools
+    - Evaluate journal collections for:
+      - new acquisitions
+      - cancellations
+      - coverage by subject area
+      - weeding
+      - coverage based on instituions
+  - New OCUL website
+    - http://www.ocul.on.ca
+    - most of the content has been mapped over now
+    - drupal
+  - Communications & Training
+    - 2011 Webinars
+      - Ask a Librarian (virtual reference)
+      - <odesi>
+      - Digital Preservation
+      - ONIX
+      - RACER
+      - eBooks
+      - WizFolio
+    - Twitter 
+      - pushing out announcements
+      - customer relations
+    - Stay informed
+      - twitter
+      - webinars
+      - listserv
+      - newsfeed
+      - email, phone, chat
+  - Relais Express
+    - "Print from the web" functionality to support secure desktop document delivery
+    - in production at 9 schools
+    - another 4 libraries are installed and testing
+    - remainder are waiting windows 7 functionality
+    - listserv established to faciliate communication among ILL and systems staff

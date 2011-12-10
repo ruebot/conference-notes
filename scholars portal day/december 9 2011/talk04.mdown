@@ -11,4 +11,20 @@ Pascal Calarco, Associate University Librarian, University of Waterloo
 
 Notes
 ___
+Recommender systems and evaluation methods overview
+
+  - LIBRARIES SUCK AT CONTENT RECOMMENDATION
+  - How do we get better?
+  - Usage based recommendation
+  - ethical problems (patron data)
+  - SFX linkage data? (privacy issues as well) 
+    - anonomize & use sessionID
+
+bX in action
+  - something about exLibris webinar
+  - evaluation approaches
+    - one formula to rule them all?
+    - offline and online tests
+    - user studies
+    - properties of interest should be identified first
 

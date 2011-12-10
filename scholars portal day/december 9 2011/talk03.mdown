@@ -8,3 +8,90 @@ Alan Darnell, Ravit David, Jacqueline Whyte Appleby, Wei Zhao, Stephen Marks
 Notes
 ---
 
+Content Services
+
+  -GeoPortal
+    - more later
+  - Books
+    - 30% increase in titles added for 2011
+    - 5788 titles added
+    - added covers
+    - table of contents & abstracts
+    - chapter downloads when DRM permits
+    - MARC record view
+    - improved distribution of marc records
+    - virtual shelf - browse similar titles
+  - Concurrent usage service
+    - track the number of concurrent sessions accessing resources
+    - enforce a mox number of sessions allowed
+  - <odesi>
+    - entitlements module
+    - opening it up beyond OCUL
+    - lots of content from statscan
+    - starting to pull in a lot of outside data (market program)
+    - quality control list for metadata
+    - video tutorials
+  - eJournals
+    - Journal packages loaded over past year:
+      - Annual Reviews
+      - U of T Press
+      - ICE Archive
+      - Sage Abstracts
+      - Taylor & Francis
+      - BioOne
+    - to be added
+      - JSTOR
+      - Thieme
+      - ACM
+      - ASTM
+    - QA Process
+      - New publishers
+        - check titles
+        - check issues
+      - Automatic log checking
+      - Problem & issue tracking (JIRA)
+      - Missue issues, error reporting
+    - OA Journals
+      - Standard OA journal loading agreement
+      - 19 OA journals added to archive
+      - Focus on Canada (interest from all over the world)
+      - email journals@scholarsportal.info to get our OA journals added
+  - Digital Preservation
+    - develop tools and services to provide for the long-term retention of digital resources of OCUL members
+    - 3 Principles
+      - Authenticity
+      - Usability
+      - Integrity
+    - Projects
+      - TDR Certification / Audit
+      - Internatiol Polar Year
+      - Data repository
+    - Tech Challenges
+      - Media obsolescence
+      - Format obsolescence
+      - Media degradation
+    - Other chanelleges
+      - Legal
+      - Organizational
+      - Security / Disaster recovery
+    - Preservation metadata
+      - started generating preservation metadata for every journal article starting in september
+      - tracking EVERYTHING
+    - TDR
+      - seeking certification as a TDR (TRAK) from CRL in early 2012 for eJournal collection
+      - will extend to other collections after eJournal audit is complete
+      - should receive preliminary report in march/april
+    - Research Data Management & Archiving
+      - Participant in International Polar Year
+        - Digital Archive Network Project
+        - U of Waterloo, U of Alberta, and government organizations
+      - 52 projects to be archived covering a wide range of data formats
+      - shared replication of U of Alberta
+      - iRODS
+    - Dataverse
+      - Research projects
+      - Possible service to the OCUL community
+        - easy to deposit research data
+          - individual researchers
+          - member institutions
+          - research data and metadata

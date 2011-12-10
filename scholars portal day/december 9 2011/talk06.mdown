@@ -8,3 +8,15 @@ Leanne Hindmarch, Scholars Portal Data & Geospatial Librarian
 Notes
 ---
 
+http://geo.scholarsportal.info
+
+  - fully bilingual
+  - all data is layered on base map
+    - wide variety of base map types
+    - choose base maps in corner
+  - shibboleth enabled user accounts or openID
+  - data provided for particular geographic area (PRETTY RAD!)
+    - browse
+    - search
+    - etc
+

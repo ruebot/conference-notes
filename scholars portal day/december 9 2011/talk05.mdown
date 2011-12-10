@@ -9,3 +9,40 @@ Rachel Palmieri, Ask A Librarian intern
 
 Notes
 ---
+What is virtual reference?
+
+  - NO SECOND LIFE JOKES ALLOWED
+  - a familar medium for many users
+  - research help from anywhere
+  - for of library outreach and promotion
+    - apparently students are scared of us
+    - *gasp*
+
+Models of VR
+
+  - single service for an entire library
+  - a service for each campus or library
+  - separate chats for individual librarians
+  - collaborative service - multiple institutions
+
+Why do VR collaboratively?
+
+  - high return on investment
+  - shared technical and administrative infrastructure
+  - bonds with OCUL partners
+  - staff development
+  - equity of access for diverse communities
+
+Benefits
+
+  - Control over user interface - customizable
+  - Robust statistics and analytics
+  - risk mitigation
+  - knowledge sharing
+
+Project update
+
+  - may - implementation committee struck
+  - summer - tech infrastructure
+  - launched in september
+
