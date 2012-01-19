@@ -1,0 +1,136 @@
+Data Management Plans: Tips, Tricks and Tools
+===
+
+Presentor(s):
+---
+
+Carly Strasser
+
+Perry Willett
+
+Notes
+---
+
+What does CDL offer?
+
+* UC3EZID
+* UC3Merritt
+* UC3DCXL
+* etc
+
+Data Management Plans 101
+
+* Digital Data
+  * Where data ends up?
+    * Data & Metadata -> Paper -> Journal -> Web/Library
+    * Data in a file cabinet, trash, deleted, etc
+      * NOT ACCEPTABLE!
+  * Who cares?
+    * Funders
+    * Institutions
+    * Users
+    * Future scientists
+  * Trends in Data Archiving
+    * Journal publishers
+      * Joint Data Archiving Agreement
+      * DRYAD
+      * Put data in DRYAD and point to data when publishing papers
+    * Data Papers
+      * Ecological Archives, Beyond the PDF
+    * Funders
+      * Data management requirements
+* What is a data management plan?
+  * A document that describes what you will do with your data during and after you complete your research
+* Why should I prepare a data management plan?
+  * Saves time
+  * Increases efficiency
+  * Easier to use data
+  * Others can understand & use data
+  * Credit for data products
+  * Carrot/Stick -> Funders require plan now : NSF
+* NSF DMP Requirements
+  * the types of data
+    * Type of data produced
+    * Relationship to exisiting data
+    * How/when/where will the data be captured or created
+    * How will the data be processed
+    * etc
+  * the standard to be used for data and metadata
+    * data reporting
+      * who, what, where, when, why, how
+      * what metadata are needed to make the data meaningful
+      * how will you create or capture these metadata
+      * why have you chosen particular sets 
+  * policies for access and sharing
+    * obligation to share?
+    * how, when, where do you make the data available?
+    * granting access
+    * copyright
+    * permission restrictions
+    * embargo periods?
+    * ethical and privacy issues?
+    * foreable data users?
+    * how to cite?
+  * provisions for re-use
+  * plans for archiving
+    * what data will be preserved, for how long?
+    * where will the data be preserved?
+    * what data transformations need to occur?
+    * what metadata will be preserved?
+* NSF Vision
+  * DMPs and their evaluation will *grow & change* over time
+  * *Peer review* will determine next steps
+  * *Community-driven* guidelines
+    * disciplines have different definitions
+    * flexibility at the directorate and division levels
+    * tailer implementations
+  * DMPs are a good *first step* towards improving data stewardship
+    * starting discussion
+    * scientists learning about data management
+  * Additional expertise on panels to effectively evaluate DMPs(?)
+* Budget!
+  * Costs of data preparation & documentation
+    * hardware
+    * personnel
+    * archive fee
+  * request funding for the above!
+* Toolbox
+  * DataONE - www.dataone.org
+    * data education tutorials
+    * database of best practices & software toos
+    * links to DMPTool
+    * Primer on data management
+  * DCXL website - dcxl.cdlib.org
+    * Data education tutorial
+    * Primer on data management
+    * Other resources
+  * Institutional Services
+    * UC Community: www.cdlib.org/services/uc3
+      * UC3Merritt (deposit|share|preserve data)
+      * UC3EZID
+        * precise identification of a dataset
+        * credit to data producers and data publishers
+        * link traditional literature to data
+     * DSpace, DataSpace, etc
+  * DMPTool dmp.cdlib.org
+    * Helps researchers meet requirement of NSF and other U.S. funding agencies
+    * Guides researchers through the process of creating a data management plan
+    * Is available to everyone at no cost
+    * Provides additional help for researchers
+  * Goals of the DMPTool
+    * To provide researchers with a simple way to create a DMP by giving them information from the funding agency
+      * resources and services to help them manage data
+      * help text for specific questions
+      * suggested answeres to questions that they can simply cut-and-paste
+      * news and events related to data management on their campus
+  * DMPTool project
+    * Partners: CDL, DataONE, Smithsonian, UCLA, UCSD, UIUC, UVa, Digital Curation Centre (UK)
+    * Started working in January 2011
+    * Developed requirements, divided work among partners, self-funded
+  * Future Development
+    * partners' meeting in late Jan. 2012 to discuss
+      * user survey results
+      * priorities for additional development
+  * How to participate
+    * Shibboleth login
+    * Add links to local resources, help text, etc
