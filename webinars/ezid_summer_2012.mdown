@@ -1,0 +1,116 @@
+EZID Summer 2012 Webinar 
+===
+
+Presentor(s):
+---
+
+Joan Starr
+
+Joan Starr manages the EZID service for the California Digital Library (CDL), a service that makes it easy to create and manage unique, long-term identifiers. Joan is Chair of the Metadata Working Group at DataCite, an international organization working for easier access to and increased acceptance of research data in scholarly communications. She engages with a wide range of data management stakeholders, including researchers, libraries, data centers, archives and repositories.
+
+She is also Strategic and Project Planning Manager for the CDL.
+
+
+Abstract:
+---
+
+Do you manage or help others manage any kinds of digital objects, such as texts, data sets, terms, or images? Do you need an easy solution to citing and providing access to this kind of work? 
+
+
+EZID makes it simple for researchers and others to obtain and manage long-term identifiers (DOIs and ARKs) for their digital content. Citation information can also be associated with the identifiers, and this makes DOIs and ARKs powerful tools for tracking usage, getting credit for work, sharing data, and have it reused for more research.
+
+
+In this free summer webinar, Joan Starr will cover:
+  * why data citation and long-term identifiers are important to researchers;
+  * how EZID can provide an easy-to-use, easy-to-implement identifier service for your institution;
+  * an overview of EZID's features;
+  * and, how to get started.
+
+
+Who should attend: This webinar will be informative for researchers and librarians supporting researchers.
+
+
+For more information about EZID: http://n2t.net/ezid/home/why
+
+(slides and recording of webinar will be provided)
+
+Notes
+---
+
+Motivators for data citation:
+
+1. Provide fair credit for data gathering and collection
+2. Ensure scientific transparency
+3. Nod to the world of tenure and promotion (citation tracking - impact)
+4. How is the data being reused?
+5. Direct pointer
+
+EZID Primary functions:
+
+1. Create long-term identifiers
+2. Manage identifiers over time
+3. Manage associated metadata over time
+
+When you use EZID you are making use of DataCite
+
+[EZID Documentation](http://n2t.net/ezid)
+
+QR Code provided for every identifier provided. 
+
+EZID API available [(documentation)]( http://n2t.net/ezid/doc/apidoc.html)
+
+* Examples are provided in the documentation
+* If you need more help, contact uc3 for access to listserv archive (the community is generous with examples)
+
+About the identifiers:
+
+1. prefix (unique to your organization)
+2. suffix (absolutely unique)
+3. publicly available?
+4. describe the object using a citation profile
+
+How do you get started?
+
+* Well... what would you like to be?
+  * full service data management centre?
+    * consultations
+    * training
+    * liaison
+  * information pointing
+  * (checkout outreach materials)
+
+ACRL Data Curation listserv
+
+How is EZID different from [ORCID](http://about.orcid.org/)
+
+* they are partners?
+* "ORCID is about researchers and EZID is about their work"
+
+How does EZID handle versions and relationships between datasets?
+
+* Relationship descriptions
+  * is version of
+  * is compiled from
+  * is cited by
+  * etc
+
+Long range planning for future functionality?
+
+* increasing functionality for identifier management
+  * what services will opt-in/opt-out
+  * enhancement of status function
+
+Canadian sites?
+
+* They are handled through the Canadian DataCite member that serves Canada
+
+ARK vs. DOI
+
+* ARK
+  * well suited for highly granular citation and use cases (suffix pass-through)
+  * DOIs can't do that - you'd need many
+  * pass metadata that communicates the intention of the owner state their persistence
+* DOIs
+  * presumed to last forever (depending on what forever means)
+  * long relationship with publishers
+  * Handles are not DOIs
