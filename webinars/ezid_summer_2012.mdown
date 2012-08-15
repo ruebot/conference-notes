@@ -59,8 +59,8 @@ QR Code provided for every identifier provided.
 
 EZID API available [(documentation)]( http://n2t.net/ezid/doc/apidoc.html)
 
-* Examples are provided in the documentation
-* If you need more help, contact uc3 for access to listserv archive (the community is generous with examples)
+* [Examples](http://n2t.net/ezid/doc/apidoc.html) are provided in the documentation
+* If you need more help, contact uc3 for access to [listserv archive]( http://listserv.ucop.edu/cgi-bin/wa.exe?A0=EZID-L&t=&X=4B53E71095E3323834) (the community is generous with examples)
 
 About the identifiers:
 
@@ -93,6 +93,7 @@ How does EZID handle versions and relationships between datasets?
   * is compiled from
   * is cited by
   * etc
+* [DataCite metadata schema](http://schema.datacite.org/meta/kernel-2.2/index.html)
 
 Long range planning for future functionality?
 
@@ -103,6 +104,7 @@ Long range planning for future functionality?
 Canadian sites?
 
 * They are handled through the Canadian DataCite member that serves Canada
+* [National Research Council Knowledge Management](http://cisti-icist.nrc-cnrc.gc.ca/eng/ibp/cisti/index.html)
 
 ARK vs. DOI
 
