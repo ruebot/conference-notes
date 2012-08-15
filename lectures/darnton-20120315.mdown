@@ -1,0 +1,66 @@
+The 2012 Grafstein Lecture in Communications: Books, Libraries & The Digital Future
+===
+
+Speaker
+---
+
+[Dr. Robert Darnton](http://en.wikipedia.org/wiki/Robert_Darnton) - Harvard University
+
+
+Notes
+---
+
+"Digital and analog are not enemies. They are mutally complentary."
+
+How can anyone hope to find any information in the ever growing sea of information?
+
+* More and more knowledge constantly being produced
+* More and more information is constantly being surrounded by paywalls
+* Should information be made a public good?
+  * price of academic journals has increased at a rate of 4 times the rate of inflation since 1980
+* Lots of affected parties
+  * rising costs of periodicals causes cuts to monograph budgets
+  * thereby effecting univerity presses who can no longer sell monographs to university libraries
+  * thereby effecting young scholars who find it all the more difficult to publish
+
+Digital Public Library of America - We have the technology!
+
+More on the Judge Chin rejection of the Google Book settlement
+
+* Side deal was cut between Google and Guild
+  * 37% Google / 63% Guild
+  * Would sell access back to libraries
+  * Guild have ~8000 party to lawsuit
+  * ~6000 individual authors opted out of lawsuit (at the same time)
+  * Settlement was rejected - the "class" was affected
+  * Google Book Search is dead
+* 2010 - Darnton sent a 1 page primer to a bunch of people, and get a bunch of people in a room. DPLA took off from there.
+* DPLA: Scope & Content
+  * will *not* be a database
+  * will be a distributed aggregate database
+  * will begin with primilarly public domain monographs (Hathi Trust & Internet Archive)
+  * Will have digitized newspapers from all 50 states
+  * They plan on setting up a mobile scanning station and help small public libraries digitize materials
+  * They have a distinct mission separate from local public libraries
+    * they see the possible gambit of some local governement asshole saying they can cut all library funding because of the DPLA.
+  * DPLA *could* have a moving wall of collection development
+    * ex. excluding everything from the past 5-10 years
+* DPLA: Costs
+  * distributed system
+  * will as fast as funding permits
+  * interoperable with other national collections (Europeana)
+  * will *not* enagage in preservation
+  * will possibily enage in digitization of out of print materials
+    * is there *truly* an "out of print" in the digital age?
+* DPLA: Legal
+  * Copyright needs to be reformed
+  * Copyright needs to *stop* extending private interest well over the public interest
+  * Copyright has the problme of lobbyists
+    * some consider it impossible to rebalance the law back to the original 14/28 year setup
+  * Best option would be reworking the 1973 fair use ammendment - specifically sections 107 & 108
+  * Look at Norwegian program that is similar to the Google Book project - authorized by legislation
+* DPLA: Technical Architecture (Beta Sprint)
+  * 40 proposals were submitted
+  * 6 winners
+  * working on a prelimary protype right now
+  * Public launch in April 2013
