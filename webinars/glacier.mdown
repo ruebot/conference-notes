@@ -1,0 +1,100 @@
+Introduction to Amazon Glacier - Data Archiving in the AWS Cloud 
+===
+
+Presentor(s):
+---
+
+Shehab Hamad - Product Manager AWS Storage
+
+Shehab joined AWS as a product manager in 2011. Prior to AWS, he worked at The Economist, KPMG and the Dubai Development & Investment Authority. Shehab completed his MBA from Columbia and Haas and read Electrical & Electronic Engineering at Imperial College London.
+
+Colin Lazier - Senior Manager, Software Development Amazon Glacier
+
+Colin joined Amazon in 2001, where he helped to build several of the underlying distributed systems technologies that power Amazon.com. He moved into AWS in 2008, working first on EC2 and then most recently leading the development of the Amazon Glacier. He has a Computer Engineering degree from the University of Waterloo.
+
+
+Date
+---
+
+September 19, 2012
+
+
+Description
+---
+
+Amazon Glacier is a secure, reliable and extremely low cost storage service designed for data archiving and backup. Amazon Glacier is designed for data that is infrequently accessed, yet still important to retain for future reference. During the webinar, we will explain how Amazon Glacier works and also walk through some best practices and tips to get the most out of the service. After the presentation, we'll be answering questions from the audience.
+
+
+Notes
+---
+
+(webinar will be posted on YouTube, and slides will be available on SlideShare)
+
+
+How Amazon Glacier works:
+
+  Archive data:
+
+    * Most data stored is infrequently accessed (Cold Data)
+    * Often older data still important for future use
+    * Typically long-lived (months or years)
+    * Business and regulatory rationales for preserving
+
+  Challenges with in-house archive solutions:
+    
+    * Ensuring durability (maintaining multiple site, multiple copies)
+    * Security (physical access, controlling programmatic access)
+    * Maintenance (expensive support contracts)
+    * Capital outlays
+    * Distraction from your core business #BUT IT IS MY CORE BUSINESS!
+    * Periodic hardware and software migrations
+
+  What is it:
+    
+    * Extremely low cost archive storage service
+    * Allows you to retrieve any amount of data within 3-5 hours
+    * Provides high-durability storage
+    * Makes it easy to retain data safely and securely for months, years, or decades
+
+  Concepts:
+    
+    * Archives: 
+    
+      * An archive is a durably stored block of information. 
+      * Data is stored in Glacier as archives.
+    
+    * Valuts: 
+      
+      * Valuts are used to organize the data stored in Glacier
+      * Each archive is stored in a Vault of your choice.
+      * Access can be controlled to data by setting vault-level access policies
+
+Questions:
+  
+  * Is there a file size limit? 
+    
+    4GB, but you can use multiple-part PUT of up to 10k 4GB parts. 40TB total.
+  
+  * Best practices?
+    
+    Aggregate files using tar or zip before transferring into Glacier. But, you don't want the archive files too large for retrieval - hit with huge charges.
+
+  * Can you index and search files that have been archived?
+    
+    They only provide the underlying storage component - customer will provide their own index. Amazon RDX for example.
+
+  * Billing related to deletion
+    
+    Any data stored in Glacier for more than 3 months - no charge. Before 3 months, $0.03/GB charge.
+
+  * There is a Glacier SDK
+
+  * Automatic archival of data from S3?
+    
+    In the future there will be life-cycle policies to transfer to Glacier
+
+  * Can you upload via the management console?
+    
+    At the moment only 3rd party tools - once the above happens, then you can via S3.
+
+  
