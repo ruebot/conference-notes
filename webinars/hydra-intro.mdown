@@ -1,0 +1,203 @@
+Introduction to Hyrda 
+===
+
+Presentor(s):
+---
+
+Tom Cramer, Chief Technology Strategist, Stanford University
+
+Date
+---
+
+September 25, 2012
+
+
+Description
+---
+
+Libraries will introduce the capabilities of the Hydra suite of solutions, as well as delve into both the technical framework and community frameworks underpinning the project.
+
+Notes
+---
+
+[Slideshare](http://www.slideshare.net/DuraSpace/92512-duraspace-hot-topics-recording-introduction-to-hydra)
+
+What is Hydra?
+
+* A collaboratively built repository front-end
+* Offers solutions bundles - I'm thinking similar to Islandora solution packs
+* Yes, this! "If you want to go fast, go alone. If you want to go far, go together."
+
+Assumptions:
+
+* No single system can provide the full range of repository-based solutions for a given institution's needs... yet sustainable solutions require a common repository infrastructure.
+  * ex: ETD deposit systems, general purpose institutional repository, digitization workflow system
+
+* No matter how many different types of digital objects, or workflows you have, folks generally want to preserve them in a single space/environment
+* No single institution can resource the development of a full range of solutions on its own... yet each needs the flexibility to tailor solutions to local demands and workflows.
+
+Solution bundle examples:
+
+* Institutional repositories
+  * University of Hull
+  * University of Virgina
+  * Penn State University
+
+* Digital image repositories
+  * Northwestern University
+
+* Archives and Special Collections
+  * Stanford University
+  * University of Virgina
+  * Rock & Roll Hall of Fame
+
+* Media
+  * Indiana University
+  * Northwestern University
+  * Rock & Roll Hall of Fame
+  * WGBH
+
+* Workflow Management (Digitization, Preservation)
+  * Stanford University
+  * University of Illinois - Urbana-Champagne
+  * Northwestern University
+
+* Exhibits
+  * Notre Dame
+
+* ETDs
+  * Stanford University
+  * University of Virgina
+
+* (Small) Data -- everyone...
+
+Hydra Philosophy -- Community
+
+  * An open architecture, with many contributors to a common core
+  * Collaboratively built "solution bundles" that can be adapted and modified to suit local needs
+  * A community of developers and adopters extending and enhancing the core
+  * One body, many heads.
+
+Community -- History
+  
+  * Conceived & executed as a collaborative, open source effort from the start
+  * Initially a joint development project between Stanford, University of Virgina, and University of Hull
+  * Close collaboration with DuraSpace and partnership with MediaShelf
+
+Community -- Model
+
+  * Tripartite structure
+    * Hydra steering group
+    * Hydra partners
+    * Hydra developers
+
+Community -- Managing
+
+  * Founding partners have an MoU governing how the community is managed
+  * Subsequent partners have signed up to this MoU  througha  partner agreement addendum
+  * Partnership requirements
+    * Use the software
+    * Contribute to the project
+    * Collaborate with other partners
+    * Commit to collectively advancing the project and the community
+    * Funding / payment is NOT required
+
+Hydra partners...
+
+...are individuals, institutions, corporations or other groups that have committed to contributing to the Hydra community; the not only use the Hydra technical framework, but also add to it in at least on of many ways; code, analysis, design, support, funding, or other resources.
+
+Hydra Partners collectively advance the project and the community for the benefit of all participants.
+
+Licensing
+
+  * All Hydra code is available under Apache License, Version 2.0
+  * All code commitment are being managed through Contributors License Agreements
+    * Individual - so each developer is clear about what they are contributing
+    * Corporate - so each institution is clear about what it is contributing
+  * Code contributors maintain ownership of their IP, and grant a non-exclusive license to the project and its users.
+
+Sustainability
+
+  * No dues
+  * "No grants were abused in the making of this project."
+  * Everything is supported by partners
+
+Technical Philosophy
+
+  * Tailored applications and workflows for different content types, context and user interactions
+  * A common repository infrastructure
+  * Flexible, atomistic data models
+  * Modular, Lego brick services
+  * Library of user interaction widgets
+  * Easily skinned UI
+
+Shared, Primitive Functions
+  * Deposit
+  * Manage (edit objects, set access)
+  * Search
+  * Browse
+  * Deliver
+  * Authentication
+  * Authorization
+  * Workflow
+
+Content framework
+
+  * Key to enabling re-use of Hydra repository solutions is a common baseline to how objects are structured
+    * Objects must include rights metadata
+    * Object must include state of what content models the objects adhere to
+  * The Hydra community has developed some basic building block content models
+
+Technical framework - Components
+
+  * Fedora Commons
+  * Solr
+  * Blacklight (Rails plugin that sits atop Solr and provides faceted search & tailored views on objects)
+  * Hydra Head (Rails plugin tha provides create, update and delete actions against Fedora Objects)
+
+Blacklight for repositories
+  
+  * Repository agnostic, feature-rich, content aware, turnkey access interface for repositories
+  * Aggregate content from multiple repositories, with links back to source systems
+  * Vibrant, multi-institutional, open source community on its own
+  * Can be used independently, or as the first component of Hydra
+
+Major Hydra Components
+  
+  * Hydra (Rails plugin - CUD out of CRUD)
+  * Blacklight (Rails plugin - R our of CRUD)
+  * Fedora
+  * Solr
+  * Solrizer
+
+Philosophies
+
+  * Building a framework, not an application
+  * Opinionated software
+  * Invest time & resources into collaborative community (face time!)
+  * Trainings & workshops
+  * Openness, transparency (code, designs, discussions)
+  * Commit to contributing back to core
+  * Design for re-use
+ 
+Best practices in development
+
+  * Agile, user-centric development process
+  * Test driven development & Continuous integration
+  * Take a light touch when dealing with big topics: "working software wins"
+  * Distributed version control, GitHub & public software repositories
+  * Rotating release managers for components
+  * Weekly "stand up" meeting w/JIRA
+  * Daily chats in IRC
+  * Documentation
+
+So what is Hydra?
+
+  * Framework for generating Fedora front-end applications w/full CRUD functionality
+  * Follows design patterns with common componentry and platforms (Fedora, Solr, Blacklight, Rails)
+  * Supports distinct UI's, content types, workflows, and policies
+  * Growing community of institutions and developers committed to framework and collaboration
+    * Not grant-based
+    * Distributed
+    * Robust
+    * Open
