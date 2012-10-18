@@ -40,86 +40,88 @@ A list of Bagit version numbers that will be accepted. At least one version is r
 Examples
 ---
 
-<code>
-"bag-info.txt": {
-  "bagging-date": {
-    required: "true",
-   },
-  "source-organization" : {
-    required: "true",
-    values: [ "Simon Fraser University", "York Univeristy" ]
-   },        
-  "contact-phone": {
-    required: "true"
-  },
-  },
-  "manifests-required" : [ "md5" ],
-  "allow-fetch.txt" : "false",
-  "serialization" : "required",
-  "accept-serialization" : [ "application/zip", "application/tar" ],
-  "accept-version" : [ "0.96", "0.97" ],
-</code>
+bagProfile.json
 
-<code>
-bagProfile: {
-  bag-info.txt: {
-    "Source-Organization": {
-      "required": "true"
-       "values": "Simon Fraser University", "York University"
+    "bag-info.txt": {
+    "bagging-date": {
+      required: "true",
+     },
+    "source-organization" : {
+      required: "true",
+      values: [ "Simon Fraser University", "York Univeristy" ]
+     },        
+    "contact-phone": {
+      required: "true"
     },
-    "Organization-Address": {
-      "required": "true"
-      "values": "8888 University Drive Burnaby, B.C. V5A 1S6 Canada", "4700 Keele Street Toronto, Ontario M3J 1P3 Canada"
     },
-    "Contact-Name": {
-      "required": "true"
-      "values": "Mark Jordan", "Nick Ruest"
-    },
-    "Contact-Phone": {
-      "required": "false"
-    },
-    "Contact-Email": {
-      "required": "true"
-    },
-    "External-Description": {
-      "required": "true"
-    },
-    "External-Identifier": {
-      "required": "false"
-    },
-    "Bag-Size": {
-      "required": "true"
-    },
-        
-    "Bag-Group-Identifier: {
-      "required": "false"
-    },
-    "Bag-Count": {
-      "required": "true"
-    },
-    "Internal-Sender-Identifier": {
-      "required": "false"
-    },
-    "Internal-Sender-Description": {
-      "required": "false"
-    },
-    "Bagging Date: {
-      "required": "true"
-      "yyyy-mm-dd"
-    },
-    "Payload-Oxum: {
-      "required": "true"
-    },
-  },
-	
-  bagit.txt: {
-    "required": "true"
-	},
-	manifest-required”:  [ "md5" ], {
+    "manifests-required" : [ "md5" ],
     "allow-fetch.txt" : "false",
     "serialization" : "required",
     "accept-serialization" : [ "application/zip", "application/tar" ],
     "accept-version" : [ "0.96", "0.97" ],
-  },
-}
-</code>
+
+
+bagProfile.json
+
+    bagProfile: {
+      bag-info.txt: {
+      "Source-Organization": {
+        "required": "true"
+         "values": "Simon Fraser University", "York University"
+      },
+      "Organization-Address": {
+        "required": "true"
+        "values": "8888 University Drive Burnaby, B.C. V5A 1S6 Canada", "4700 Keele Street Toronto, Ontario M3J 1P3 Canada"
+      },
+      "Contact-Name": {
+        "required": "true"
+        "values": "Mark Jordan", "Nick Ruest"
+      },
+      "Contact-Phone": {
+        "required": "false"
+      },
+      "Contact-Email": {
+        "required": "true"
+      },
+      "External-Description": {
+        "required": "true"
+      },
+      "External-Identifier": {
+        "required": "false"
+      },
+      "Bag-Size": {
+        "required": "true"
+      },
+          
+      "Bag-Group-Identifier: {
+        "required": "false"
+      },
+      "Bag-Count": {
+        "required": "true"
+      },
+      "Internal-Sender-Identifier": {
+        "required": "false"
+      },
+      "Internal-Sender-Description": {
+        "required": "false"
+      },
+      "Bagging Date: {
+        "required": "true"
+        "yyyy-mm-dd"
+      },
+      "Payload-Oxum: {
+        "required": "true"
+      },
+    },
+    
+    bagit.txt: {
+      "required": "true"
+    },
+    manifest-required”:  [ "md5" ], {
+      "allow-fetch.txt" : "false",
+      "serialization" : "required",
+      "accept-serialization" : [ "application/zip", "application/tar" ],
+      "accept-version" : [ "0.96", "0.97" ],
+    },
+  }
+
