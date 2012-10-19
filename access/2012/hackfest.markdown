@@ -4,7 +4,7 @@ Bagit Spec update - Profiles
 Collaborators
 ---
 
-Meghan Currie, Krista, Mark Jordan, Nick Ruest, William Wueppelmann
+Meghan Currie, Krista Godfrey, Mark Jordan, Nick Ruest, William Wueppelmann; special advisor Dan Chudnov.
 
 
 bagitProfile
@@ -12,11 +12,13 @@ bagitProfile
 
 Allow creators and consumers of bags to agree on which optional and required components of the bags they are exchanging. The profile file (bagProfile.json), which is machine readable, sits at a valid url. The format of the file will be json.
 
-Intended workflow: Receive bag, validate profile, complete bag if fetch.txt is present and profile validates, finally validate Bag according to Bag spec. 
+This proposal builds on the sample profile in cluded in the Library of Congress Bagger tool. That profile was local to LC and not intended to be implemented widely. 
 
-Failure to validate accept-serialization or accept-version implies that the rest of the bag is unverifiable and processing must stop. Processing may continue after other errors in order to generate a comprehensive error report.
+Intended workflow: Receive bag, complete bag if fetch.txt is present, validate the complete Bag against a profile, validate Bag according to Bag spec. 
 
-Parameters:
+Some profile attributes are 'fatal': failure to validate accept-serialization or accept-version implies that the rest of the bag is unverifiable and processing should stop. Processing may continue after other errors in order to generate a comprehensive error report.
+
+Tests:
 
 1. bag-info:
 Specifies which tags are required, etc. Assumes presence of bag-info.txt. Each tag definition takes two optional parameters: required is true or false (default false) and indicates whether or not this tag is required. values is a list of acceptable values. If empty, any value is accepted.
@@ -40,7 +42,7 @@ A list of Bagit version numbers that will be accepted. At least one version is r
 Examples
 ---
 
-bagProfile.json
+bagProfileFoo.json
 
     "bag-info.txt": {
     "bagging-date": {
@@ -61,7 +63,7 @@ bagProfile.json
     "accept-version" : [ "0.96", "0.97" ],
 
 
-bagProfile.json
+bagProfileBar.json
 
     bagProfile: {
       bag-info.txt: {
