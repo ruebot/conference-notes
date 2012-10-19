@@ -1,0 +1,46 @@
+Social Feed Manager
+===
+
+Speaker
+---
+Daniel Chudnov, George Washington University
+
+Notes
+---
+
+How do researchers study social media?
+
+  * google reader
+  * copy and paste
+  * fold, spindle, mutilate
+  * excel
+  * spss
+
+Lots of research opportunities!
+
+What are the options?
+
+  * access to the twitter firehoses
+    * not cheap
+    * friendly
+    * need tools to collect, and process
+
+what are researchers asking for?
+
+  * specific users, keywords
+  * historic time periods
+  * basic values: user, date, text counts
+  * delimited files to import
+  * we can do most of this with public APIs
+  * some data must be purchased
+ 
+Twitter api
+
+  * user timelines: up to 3200 tweets, plus new
+  * public streams: follow, track, geo, 3000/minute
+  * search
+
+social feed manager is on github! 
+https://github.com/gwu-libraries/social-feed-manager
+
+

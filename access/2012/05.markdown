@@ -1,0 +1,66 @@
+Adventures in Linked Data: Building a Connected Research Environment
+===
+
+Speakers
+---
+
+Lisa Goddard, Memorial University
+
+
+Abstract
+---
+
+This is the story of how one linked data fangirl finally got her hands dirty. The Canadian Writer’s Research Collaboratory (CWRC) is a CFI funded initiative to establish an online infrastructure for literary research in Canada. Bringing together scholars, programmers, and librarians from across Canada, the project exemplifies the themes of collaboration, scalability, and interoperability that characterize the emerging digital humanities research environment. Linked data is the basis of a machine readable web that will enable vastly more sophisticated queries against human language materials. As such, it holds particular promise for researchers inthe largely text-based disciplines of the humanities.This session explores one librarian’s experience working as part of a large research team to implement linked data from the ground up. We’ll follow CWRC’s progress from the initial daunting question of where to start, through the development of a linked data roadmap for the project. We’ll discuss lessons learned in the attempt to make sense of a tangle of possible platforms, tools, standards, and ontologies. Finally we’ll reflect on new opportunities and roles for libraries as the humanities struggle to redefine themselves in the digital age.
+
+
+Notes
+---
+
+Lots of collaboration!
+
+  * senior scholars
+  * librarians
+  * programmers
+  * emergent scholars
+  * project managers
+
+Linked data for the Humanities?
+
+  * Improved search
+  * New discovery tools
+  * Interoperability
+  * Collaboration
+  * Heterogeneity (text data is messy)
+
+So, they use Fedora Commons
+
+What are they doing?
+
+  * Data modeling
+    * Identify top level entities
+    * representations for events, people, works, annotations, etc
+  * mint URIs for entities
+    * every entity has its own uri
+    * then create and establish relationships between entities
+    * THEN LEARN EVEN MOAR
+    * YAY! Yet another COOL URIs DON'T CHANGE reference
+  * predicates!
+    * subjectOf
+    * annotates
+    * adaptedFrom
+    * hostedBy
+    * etc
+  * Ontologies
+    * best yet: ontologies are an accessibility thing for computers because they are human readable impaired.
+    * an ontology is for life!
+    * [linked open vocabularies](http://lov.okfn.org/dataset/lov/)
+    * they use FOAF, MADS, EAC-CPF (for persons)
+    * FRBR (for works)
+    * lots more info on the slides
+
+CWRC Writer - an opensource editor for online digital scholarship
+
+  * Writer tagging toolbar to talk all the major entities
+  * Add relationships - relationship creator
+
+[SLIDES!](http://research.library.mun.ca/622/)

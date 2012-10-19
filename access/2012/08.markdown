@@ -1,0 +1,29 @@
+Question Answering, Serendipity, and the Research Process of Scholars in the Humanities
+===
+
+Speakers
+---
+
+Kim Martin, Victoria L. Rubin and Anabel Quan-Haase, Faculty of Information and Media Studies, University of Western Ontario
+
+
+Abstract
+---
+
+This paper reflects on the role the physical library plays in research by humanities scholars and demonstrates a need for research tools that help to create an atmosphere which enhances the possibility of a chance encounter with information in digital collections. The field of automated question answering informs us of (both human and automated) methods for asking and answering questions: categorizing and interpreting questions as well as providing a small number of best matching or correct answers. We argue that some aspects of the serendipitous encounter with information that occurs in physical libraries can be recreated in virtual environments, by combining Question Answering with Natural Language Processing of library systems’ bibliographic descriptors (subject headings metadata) as well as the collection’s full texts, where available. The results can be visualized with eye-catching add-ons to library systems. To this effect, we propose three conceptual variations for a tool design. LOOK AROUND is a serendipity-enhancing tool that aims at aiding scholars in expanding their search experience and making new connections across relevant subject areas in digital libraries or large virtual electronic repositories. We emphasize that advantages of such a tool design for libraries and library users are three-fold: 1) it produces unique query-based representations of (full-text) digital library collections; 2) it provides a capability to automatically extract answers relevant to users’ specific in-depth interests; 3) it encourages repeated use of the library website at a time when information seeking is dominated by the page-ranking search engines.
+
+
+Notes
+---
+
+Historical research process:
+
+  1. Preliminary idea generation
+  2. Literature search and hypothesis
+  3. Data collection
+  4. AnaLYZING AND INTERPRETATION OF DATA
+  5. PRESENT FINDINGS
+
+Serendipity
+
+  ...

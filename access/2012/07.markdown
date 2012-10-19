@@ -1,0 +1,19 @@
+A Library in a Box
+===
+
+Speaker
+---
+
+David Fiander, Western University
+
+
+Abstract
+---
+
+The availability of low-cost, wireless routers that support open source operating systems,rechargeable battery packs, and large capacity USB memory sticks means that it is now possible to build a networked file server that doesn’t require access to either the internet or electrical power for about $100. The BiblioBox project is inspired by David Dart’s “PirateBox” (http://wiki.daviddarts.com/PirateBox) and Jason Griffey’s “LibraryBox” (http://jasongriffey.net/librarybox). While those two earlier projects provide a general purpose file sharing service, BiblioBox attempts to provide an Open Publication Distribution System (OPDS) compatible ebook catalogue interface. This means that local users can connect to the BiblioBox directly from their ebook devices to search for and download documents. This presentation will give an overview of the hardware, development environment, and demonstrate the user’s and administrator’s interfaces to the system.
+
+
+Notes
+---
+
+

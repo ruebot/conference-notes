@@ -1,0 +1,29 @@
+Big Data, Answers, and Civil Rights
+===
+
+Speaker
+---
+
+Alistair Croll, Lean Analytics
+
+
+Abstract
+---
+
+The human race is colonizing a second world. We’ve got two lives: the real, atomic, messy, wetware-powered one; and the virtual, digital, analyzed, connected one. And when those two worlds collide, interesting—and terrifying—things happen.
+
+Every click, tap, and swipe adds to the digital breadcrumb trail we leave in our wake. When we read a digital book, it reads us back, learning from us. That information can be used in ways we don’t expect, and often don’t approve of.
+
+With an abundance of information at our fingertips, it’s also easy to be swayed by data. Without context, we substitute volume of information for accuracy of information, polarizing us across political spectra and turning “fair and balanced” into “teach the controversy.”
+
+In this session, author and analyst Alistair Croll will explore the consequences our online lives, and look at just a few of the ways that Big Data and ubiquitous computing are changing the way we live, love, work, and play.
+
+Notes
+---
+
+Large amounts of information > public and private > easily linked and collected > stored just because we can > analyzed by humans and machines > in near real time > applied to business > usable by everyone > fed back into the system
+
+^^^BIG DATA
+
+THIS TALK IS AWESOME
+

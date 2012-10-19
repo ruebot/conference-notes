@@ -1,0 +1,74 @@
+Locked in the cloud: What lies beyond the peak of inflated expectations?
+===
+
+Speakers
+---
+
+John Durno & Corey Davis, University of Victoria
+
+
+Abstract
+---
+
+According to Gartner, cloud computing is “the most hyped subject in IT today.” (Hype Cycle Special Report, 2011). In the world of library technology, this observation is borne out by the intensive marketing of the emerging class of “Next Generation” library systems, which it is claimed will build economies of scale, eliminate redundancies in library workflow and infrastructure, and facilitate the development of innovative new services.
+
+
+But efficiency gains are just part of the cloud’s calculus. As Joe McKendrick recently wrote, “going with a cloud solution means buying into the specific protocols, standards and tools of the cloud vendor, making future migration costly and difficult.” (Forbes, 2012.) When a significant part of library’s data and technical infrastructure resides with a single cloud provider, what happens when license terms change for the worse, or costs increase excessively, or a better system comes along? What happens when you can only access your data via the vendor’s APIs? And is it even your data anymore? This presentation with examine the unique tension between the cloud and vendor lock-in, both generally and in relation to the experience of the our institution.
+
+
+Notes
+---
+
+Vendor lock-in!
+
+"... a worrisome trend to watch for as wee see these new cloud computing platforms develop, is the desire of the organizations providing them to cast a net around us, to lock us into silos ..." Carl Grant
+
+What systems? (Big issues in the market place)
+
+  * Vendor-managed
+  * Multi-tenant
+  * SaaS
+  * Subscription model
+
+Characteristics
+
+  * Combined print and electronic workflows
+  * collaborative metadata management
+  * technology managed by vendor, not library
+  * 'One stop' solution --- hrm...
+
+Economics of LOCK-IN!
+
+  * Vendor lock-in makes a customer dependent on a vendor for products and services, unable to use another vendor without switching tools
+  * data lock-in (proprietary data structures)
+  * API lock-in
+  * Institutional inertia and/or incumbent bias
+
+Lock-in operates over two periods:
+
+  * Vendor tries to grab market share - prices wars, etc
+  * Vendor gets monopoly - now yer fucked - jacks up prices, and MOAR
+  * Innovation is stifled
+
+There is hope!?
+
+  * manage technology
+    * "Our goal was to manage information, not technology."
+    * No way to manage information without managing technology
+    * Have to be able to make important and informed decisions about your technology
+  * consider alternative architectures
+    * take a second look at your current system
+    * want do you need, what can you trash
+  * have an exit strategy
+  * be wary of APIs
+    * limited functionality
+    * limited access to data
+    * can be changed or deprecated
+
+Caveat Emptor
+
+  * High switching costs
+  * Escalating subscription costs
+  * Interopoerability issues
+  * Dwindling innovation
+  * Limited choice
