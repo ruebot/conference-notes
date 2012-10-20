@@ -1,0 +1,28 @@
+Dead easy data visualization for libraries
+===
+
+Speaker
+---
+
+Sarah Severson, Moment Factory
+
+
+Notes
+---
+
+Choose your question!
+
+  * where
+  * when
+  * how
+
+But! Your question might change.
+
+Consider your source trinity -- designer + audience + data (look at the relationships)
+
+Easy to use tools:
+
+  * [infogr.am](infogr.am)
+  * [timeline.verite.co](timeline.verite.co)
+  * [overview.ap.org](overview.ap.org)
+

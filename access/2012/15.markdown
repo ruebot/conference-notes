@@ -1,0 +1,21 @@
+SPLURGE: The Scholars Portal Library Usage-based Recommendation Engine
+===
+
+Speakers
+---
+
+William Denton, York University
+Cameron Metcalf, University of Ottawa
+Kevin Bowrin, Carleton University
+
+
+Abstract
+---
+
+We will outline the birth and delivery of SPLURGE (Scholars Portal Library Usage-based Recommendation Generation Engine). SPLURGE came about as an idea to build up a book title recommendation service by pooling circulation data from university libraries in the province of Ontario. Following the precedent of a project that was launched by the Joint Information Systems Committee (JISC) in the United Kingdom, a group of Systems folks in Ontario met and surmised it would be interesting to start collecting circulation data that could then be fed back into the school’s various catalogue interfaces. The data would make it possible to provide context-sensitive book suggestions, to researchers, in the search results: in the manner Amazon or EBay recommends items for purchase to its shoppers.Following the launch of a GitHub site for the project and armed with only a rough outline of the goals, over twenty five people from sixteen institutions gathered for a single hackfest event to explore and discuss the possible paths to further bring SPLURGE into fruition. Is this another add-on that will serve to simply spoon-feed our users? Or, will SPLURGE zestfully put the dip back into serendipity for those researchers who might have otherwise not connected potential resources in their initial catalogue queries? How too, might such a tool be used to aid in a Library’s collection development? All in all, it’s going to be a tool that lets you question the answers. We’ll show how it works, how we built it, how you can use it, and where it could go.
+
+
+Notes
+---
+
+

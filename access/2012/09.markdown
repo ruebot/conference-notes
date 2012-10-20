@@ -1,0 +1,26 @@
+From Zero to 50K in 3 Weeks – Building a Digital Repository from Scratch, Fast
+===
+
+Speaker
+---
+
+Brianne Selman, Winnipeg Public Library
+
+
+Abstract
+---
+
+Ever dreamt about how you would spend $50,000 if it was given to you? At WPL, we received funds earmarked for a digitization project – and only three weeks to decide how to spend them. So we dreamt, and we dreamt big – a brand new digital repository, community involvement in a local history project, and as many ways to make our data discoverable as we could think of.
+
+We are building a digital repository up to current archival standards with an initial collection of historical postcards. One of the key elements to the project is collecting and discovering additional historical information in a collaborative way, through slide shows with historians to capture oral histories, digitization days for smaller collectors, collaboration with the indigenous research community, geotagging and fun apps for display, and an interactive site to gather information from the larger community.
+
+From budgets and proposals, convincing historical postcard collectors to part with their archival materials, software procurement, sensitive topics and dealing with IT, to the final (ongoing) result, this presentation is about a unique digital repository build from its foundations. It will be interesting to those planning a digital repository, those already using a digital repository and interested in other deployments, or simply those who enjoy hearing dark tales about other peoples’ pain. There are sure to be plenty of lessons learnt from this one, including just-about-in-time project planning, the exposing of metadata for the world to see, and winning over the IT department as allies.
+
+
+Notes
+---
+
+ugh. motherfucking prezi.
+
+
+I KNEW IT! HAVE TO SPEND $50!? WHY NOT CONTENTDM!?

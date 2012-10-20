@@ -1,0 +1,61 @@
+Cooking with Chef at the University of Toronto Libraries: Automated Deployment of Web Applications in a Library Context
+===
+
+Speakers
+---
+
+Graham Stewart, University of Toronto
+
+
+Abstract
+---
+
+The Information Technology Services department at the University of Toronto Libraries manages a substantial server and storage infrastructure in support of the Library’s roles of connecting users to resources wherever they are, and enabling excellence in teaching, research and scholarship. Our infrastructure runs well over 150 websites on many different servers, both virtual and physical. In 2011 we began using an open source tool, Chef, to manage our growing environment. Chef allows for the automation of server infrastructure by writing code to create abstract definitions of infrastructure elements, and applying these definitions to servers. In theory, everything required to build an infrastructure can exist as source code, independent of hardware. “Infrastructure as code”.Chef is an excellent tool for any organizing facing scaling problems, configuration challenges, efficiency issues, budget tightening, and for those considering cloud-based deployments.In particular, we have been using Chef to manage the installation and configuration of several applications of interest to the Library community: EZProxy, Endeca, Islandora, and Drupal. We have written “cookbooks” to enable the rapid deployment of these applications, in arepeatable and predictable manner.This presentation will discuss why tools like Chef should be of particular interest to Libraries in times of rapid technological change, growing user demand for resources, and ongoing budget constraints. The presentation will cover Chef’s design, capabilities, features, and advantages, and will include a live demonstration: building a Drupal server from bare hardware and adding it to a live web cluster.
+
+
+Notes
+---
+
+Use chef to deploy PERMAFROST servers?
+
+"[Chef](http://www.opscode.com/chef/) is an opensource systems integration framework built specifically for automating the cloud."
+
+  * ensures servers are running the applications and versions of those applications that you define
+  * ensures applications are configured as you define and that they don't stray from that configuration
+
+chef client - nodes
+attributes - data about nodes on chef-server
+chef-client runs every x minutes and gets information from chef-server
+
+chef components:
+
+  * recipes
+  * attributes
+  * templates
+  * cookbooks
+  * roles
+  * data bags
+
+why is it useful!?
+
+  * never do anything twice
+  * "easily" recover infrastructure: separate configuration from data and applications
+  * end of the monolithic, critical, fragile server
+
+Problems:
+
+  * it is complicated: steep learning curve
+  * potential for big fails
+  * a bit bleeding edge
+  * acquisition potential
+
+Library community interest:
+
+  * IT no longer a roadblock
+  * leads to greater co-operation
+    * internally between systems and development staff
+    * inter-departmental
+  * Cloud
+  * reducing cost & saving time
+
+[github.com/LibraryChef](github.com/LibraryChef)

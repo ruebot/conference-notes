@@ -1,0 +1,21 @@
+Discovering New Dimensions
+===
+
+Speakers
+---
+
+Marc Comeau, Riel Gallant and Michael Groenendyk, Dalhousie University
+
+
+Abstract
+---
+
+Through the summer of 2012, the Dalhousie Libraries implemented a pilot project to put 3D printing and scanning technologies in the hands of students who have not traditionally had access to it. The primary goal of this project was to help bridge the digital divide that currently exists with this technology. While 3D printers and scanners are already present on the Dalhousie campus, they are very expensive and used almost exclusively in closed environments such as engineering labs. As such, they are mostly unavailable to most Dalhousie students. Through this project we sought to expose the entire campus to affordable, relatively user-friendly 3D printers and scanners.
+
+We will discuss how this came about, how it was implemented and what lessons we’ve learned along the way. For those who are curious, the 3D printer will be at Access 2012 for a demonstration.
+
+
+Notes
+---
+
+

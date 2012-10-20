@@ -1,0 +1,22 @@
+“Keeping Books Open”
+===
+
+Speaker
+---
+
+Hugh McGuire
+
+Founder of Pressbooks, Librivox, iambic audio
+Co-editor of Book: A Futurist’s Manifesto (O’Reilly)
+
+
+Notes
+---
+
+Why books will live on the web:
+
+1. a book i snot defined by format, but by boundednss & the intention of its creators
+2. books are the most important "nodes of knowledge" that we have yet devised (pace, TED).
+3. the web is the most efficient technology yet devised to allow people to share, and make use of information (especially nodes!)
+4. information wants to be used (in ways creators don't imagine)
+

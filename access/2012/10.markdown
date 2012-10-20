@@ -1,0 +1,21 @@
+Open Source OCR for Large Collections of Scanned Documents
+===
+
+Speaker
+---
+
+Art Rhyno, University of Windsor
+
+
+Abstract
+---
+
+Optical Character Recognition (OCR) can be an essential step in enabling discovery for digitized collections and is a common requirement for putting analogue documents online. This session describes the use of Tesseract, an OCR application developed at Hewlett-Packard between 1985 and 1995, and made available by Google under an Apache License since 2006. Tesseract is a viable replacement for the best of the commercial OCR packages for many types of page images, and is amenable to Hadoop processing for dealing with large volumes of materials. Although Tesseract may require more image preparation work for optimum OCR, it forms part of a rich Open Source ecosystem of high calibre image processing tools, ranging from ImageMagick command line switches through to Gimp processing scripts.The presenter has pushed more than one million newspaper pages through commercial and open source OCR engines, has stared at the worst of microfilm-based scanning efforts, and spent nearly a decade publishing pages to add to the body of newspapers that create rich history and digitization headaches for future generations.
+
+
+Notes
+---
+
+ART!!!!!!!
+
+
