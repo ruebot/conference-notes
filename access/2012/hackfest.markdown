@@ -21,6 +21,8 @@ Parameters:
 1. bag-info:
 Specifies which tags are required, etc. Assumes presence of bag-info.txt. Each tag definition takes two optional parameters: required is true or false (default false) and indicates whether or not this tag is required. values is a list of acceptable values. If empty, any value is accepted.
 
+bag-info.txt must contain the tag 'Bag-Profile', with a value of the URI of the JSON file containing the profile.
+
 2. manifests-required: LIST
 Each manifest file in LIST is required.
 
