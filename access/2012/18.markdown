@@ -1,0 +1,43 @@
+Why is it so hard to give away free books?
+===
+
+Speaker
+---
+
+Marc Pillon, Windsor Public Library
+
+
+Abstract
+---
+
+You would think everyone would want a library card to access hundreds of thousands of free books and other media on every subject imaginable. But, that’s not the case. Why in many communities are active library users on the decline? Why won’t people come to the library? Perhaps it is the trip itself. In this age of Amazon, NetFlix, and Facebook, many of us are accustomed to quick and easy access to nearly everything. This level of access is especially well received with those of us who are just too busy to acquire services any other way. So busy in fact that going to the library is just too inconvenient.How do we conquer this problem? It isn’t feasible to put a library on every corner – or is it? What if the library were as convenient as getting gas or grabbing a coffee? This presentation will discuss the award-winning technology, partnerships, and philosophy that is driving Windsor Public Library to adopt new service delivery models both inside and outside the walls of the library including mobilizing staff with iPads and iPhones, removing desks, writing our own mobile apps, and providing service in non-traditional locations like department stores, grocery stores, coffee shops, pharmacies and special events. Windsor Public Library is just beginning this transition by creatively combining common parts from Apple, Microsoft, Cisco, and Telus.
+
+
+Notes
+---
+
+Vision for Public Libraries in the 21st Century
+
+  * All about convenience
+  * cutting the cord to services
+  * less traditional bricks and mortar
+  * more locations for pick-up and drop-off (like post office in shopper's)
+  * partner with retail outlets
+
+Library in a box
+
+  * access to the ils anywhere
+  * small enough to carry to any location
+  * location only limited to wireless signal
+  * new version inspired by apple store
+
+Where shoul libraries locate?
+
+  * big box stores
+  * coffee shops
+  * train stations/airports
+  * hospitals
+  * parks
+  * university/college campus (LIBRARY WARS!?)
+
+

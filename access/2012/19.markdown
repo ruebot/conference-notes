@@ -1,0 +1,60 @@
+We Can Do Better! Integrating APIs to improve the user experience
+===
+
+Speaker
+---
+
+Sonya Betz and Robert Zylstra, MacEwan University
+
+
+Abstract
+---
+
+Creating positive user experiences is central to the success of any online environment. We know that our virtual spaces should provide seamless streamlined access to resources and services. Unfortunately, the reverse is often true: users are thrust into a bewildering world of OPACS, databases, discovery tools, link resolvers, research guides, chat services, and web content. This nightmare array of disparate user spaces, multiple authentication schemes, confusing navigation, and frustrating mobile experiences alienates and distances users unfamiliar with the diverse tools librarians take for granted. Fortunately, the landscape of the vendor-client relationship is beginning to change, and we no longer need to rely as heavily on out-of-the-box user interfaces. With access to core resources and services via APIs, we can begin building the kinds of online spaces that our users want. At our institution, we are embarking on a project to begin integrating our ILS, discovery tool, and other web environments into our native content management system, working with vendors and developers to present search results, patron data, and content in a fully-featured cohesive online space. Phase one of this project will include an iOS app and a proof-of-concept mobile web environment (launch fall 2012), and as development progresses, we will begin to fully integrate targeted resources, services, and tools into our content management system.
+
+
+Notes
+---
+
+The Problem!
+
+  * of the damn systems
+  * all of the damn systems webspaces
+
+key concepts
+  
+  * once access point
+  * mobile and desktop interfaces
+  * user aware
+  * consistant and predictable experience
+
+The application:
+
+  * Authentication
+    * ldap
+    * tokens
+    * sirsi credentials
+  * Sirsi webservices
+    * holds
+    * items out
+    * renew
+    * fees
+  * Search
+    * EDS API
+    * ^^^documentation
+  * library info
+    * contact
+    * hours
+    * location (maps/directions)
+  * future
+    * musicbrainz service for album cover art
+    * citations
+    * alexander street press content
+    * favourites
+    * shared folders
+    * library maps
+    * barcode scanning
+    * nfc/rfid
+
+
+
