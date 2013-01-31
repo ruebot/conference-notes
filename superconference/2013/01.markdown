@@ -1,0 +1,97 @@
+# NOW AND FOREVER - DIGITAL PRESERVATION IN CANADA
+
+## Speakers
+
+Debbie Feisst, Public Services Librarian, University of Alberta Libraries
+Stephen Marks, Digital Preservation Librarian, Scholars Portal, OCUL
+Tatiana Usova, Head Librarian, Bibliothèque Saint-Jean, University of Alberta
+
+## Abstract
+
+The creation and preservation of digital materials is a frequent challenge in modern librarianship. A holistic view of the field will be covered – beginning with an active preservation program at the University of Alberta Libraries, followed by an exploration of the challenges and opportunities at the national level, and ending with a discussion on the education of current and next-generation librarians, and what we can all do to promote a sustainable digital future.
+
+## Notes
+
+* Part 1 - background
+  * the irony of a digital preservation presentation done in Prezi :+1:
+  * Background history of born digital objects
+  * Governmental electronic publishing, and their inability to maintain access and preserve their documents (including versioning)
+  * MIT Technology review paper (?) about analysis of twitter links after arab spring - 10% of links no longer worked
+  * A little bit about NDIIPP
+  * A little bit about the states of sustainability report
+  * _suddenly steve's laptop shutsdown_
+  * Government of Canada web archive
+    * 170 million objects
+    * started in 2005
+    * stopped archiving in 2009
+    * only collect pdfs now
+    * _*WTF*_!?
+  * MEANWHILE, IN ALBERTA...
+    * what do we preserve?
+    * sounds like mostly educational content
+* Part 2 - web archiving
+  * Decision making behind U of A web archiving projects
+    * path to web archiving
+      * 2001 printed websited and catalogued URLs
+      * 2004 wayback machine
+      * 2005 Archive-It launched
+      * 2010 U of A Libraries Archvie-It subscription
+    * Archive-It - Internet Archive subscription based local web archiving platform
+    * U of A Libraries web archiving
+      * started in summer of 2010
+      * building management practices around the platform
+        * metadata standards
+        * collection standards - why do we archive/curate?
+        * workflow practices
+        * how does it all work!?
+      * YAY! One does not simply slide - One does not simply... walk into the deep web
+      * Archive It
+        * setup frequency crawls
+        * full-text search of archived sites
+      * cataloguing, classification, metadata
+        * how well can we provide access to this content?
+        * title, subject, genre, keywords
+        * Archive-It allows the ability to add custom metadata fields
+* Part 3 - digitization
+  * digitized a bunch of stuff through internet archive at u of t
+  * copyright clearance
+  * Geist on crown copyright
+    * if it is not used for commercial purposes, translated, etc...
+    * you can use it 
+  * exposing digitized objects through primo
+* Part 4 - peers
+  * U Sask - historical textbook collection
+  * MUN - Digital Archives Initiative
+  * OISE - Ontario curriculum documents, and out of copyright textbooks
+* Part 5 - sustainability and doing it
+  * why is it important?
+    * library as the place
+    * library as the people
+    * library as the things <--> ALL ABOUT THE THINGS!
+  * Digital preservation is not a project, it is apart of all of the things
+  * three-legged stool model - digital preservation
+    * seat - digital preservation
+    * legs:
+      * technology
+        * do we need yet another repository platform, or can we just use the existing tools
+        * be thoughtful about the systems we're developing,
+        * BUT! Just start accession stuff
+        * we have a lot of tools
+        * we still need more, but we've got enough to get started
+        * start accessioning!
+        * don't get overconfident - use the tools you have in a thoughtful way!
+        * **BACKUPS ARE NOT PRESERVATION!!!**
+        * **YOUR PRESERVATION COPY IS NOT A BACKUP!!!**
+      * organizations
+        * policy!!!
+        * know your rights!
+          * copyright act
+          * aoda
+      * resources
+        * you mean advocay right, let's advocate for digital preservation!
+        * IT DOESN'T WORK ^
+        * preserveration and digital preservation is not sexy
+        * work smarter, not harder
+        * don't rent, buy!
+        * work together!!!
+        * if we can't live together, we're going to die alone
